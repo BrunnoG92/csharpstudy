@@ -1,0 +1,13 @@
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/06 Valor em intervalo/bin/Debug/netcoreapp3.1/06 Valor em intervalo
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/06 Valor em intervalo/bin/Debug/netcoreapp3.1/06 Valor em intervalo.deps.json
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/06 Valor em intervalo/bin/Debug/netcoreapp3.1/06 Valor em intervalo.runtimeconfig.json
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/06 Valor em intervalo/bin/Debug/netcoreapp3.1/06 Valor em intervalo.runtimeconfig.dev.json
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/06 Valor em intervalo/bin/Debug/netcoreapp3.1/06 Valor em intervalo.dll
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/06 Valor em intervalo/bin/Debug/netcoreapp3.1/06 Valor em intervalo.pdb
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/06 Valor em intervalo/obj/Debug/netcoreapp3.1/06 Valor em intervalo.csprojAssemblyReference.cache
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/06 Valor em intervalo/obj/Debug/netcoreapp3.1/06 Valor em intervalo.AssemblyInfoInputs.cache
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/06 Valor em intervalo/obj/Debug/netcoreapp3.1/06 Valor em intervalo.AssemblyInfo.cs
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/06 Valor em intervalo/obj/Debug/netcoreapp3.1/06 Valor em intervalo.csproj.CoreCompileInputs.cache
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/06 Valor em intervalo/obj/Debug/netcoreapp3.1/06 Valor em intervalo.dll
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/06 Valor em intervalo/obj/Debug/netcoreapp3.1/06 Valor em intervalo.pdb
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/06 Valor em intervalo/obj/Debug/netcoreapp3.1/06 Valor em intervalo.genruntimeconfig.cache

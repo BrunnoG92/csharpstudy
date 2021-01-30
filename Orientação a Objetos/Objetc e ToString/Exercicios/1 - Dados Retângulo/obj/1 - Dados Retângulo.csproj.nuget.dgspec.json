@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicios/1 - Dados Retângulo/1 - Dados Retângulo.csproj": {}
+  },
+  "projects": {
+    "/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicios/1 - Dados Retângulo/1 - Dados Retângulo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicios/1 - Dados Retângulo/1 - Dados Retângulo.csproj",
+        "projectName": "1 - Dados Retângulo",
+        "projectPath": "/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicios/1 - Dados Retângulo/1 - Dados Retângulo.csproj",
+        "packagesPath": "/home/bruno/.nuget/packages/",
+        "outputPath": "/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicios/1 - Dados Retângulo/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/bruno/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

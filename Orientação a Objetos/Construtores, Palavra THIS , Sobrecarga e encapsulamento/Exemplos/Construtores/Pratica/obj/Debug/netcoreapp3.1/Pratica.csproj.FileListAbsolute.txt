@@ -1,0 +1,13 @@
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Construtores, Palavra THIS , Sobrecarga e encapsulamento/Construtores/Pratica/bin/Debug/netcoreapp3.1/Pratica
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Construtores, Palavra THIS , Sobrecarga e encapsulamento/Construtores/Pratica/bin/Debug/netcoreapp3.1/Pratica.deps.json
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Construtores, Palavra THIS , Sobrecarga e encapsulamento/Construtores/Pratica/bin/Debug/netcoreapp3.1/Pratica.runtimeconfig.json
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Construtores, Palavra THIS , Sobrecarga e encapsulamento/Construtores/Pratica/bin/Debug/netcoreapp3.1/Pratica.runtimeconfig.dev.json
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Construtores, Palavra THIS , Sobrecarga e encapsulamento/Construtores/Pratica/bin/Debug/netcoreapp3.1/Pratica.dll
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Construtores, Palavra THIS , Sobrecarga e encapsulamento/Construtores/Pratica/bin/Debug/netcoreapp3.1/Pratica.pdb
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Construtores, Palavra THIS , Sobrecarga e encapsulamento/Construtores/Pratica/obj/Debug/netcoreapp3.1/Pratica.csprojAssemblyReference.cache
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Construtores, Palavra THIS , Sobrecarga e encapsulamento/Construtores/Pratica/obj/Debug/netcoreapp3.1/Pratica.AssemblyInfoInputs.cache
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Construtores, Palavra THIS , Sobrecarga e encapsulamento/Construtores/Pratica/obj/Debug/netcoreapp3.1/Pratica.AssemblyInfo.cs
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Construtores, Palavra THIS , Sobrecarga e encapsulamento/Construtores/Pratica/obj/Debug/netcoreapp3.1/Pratica.csproj.CoreCompileInputs.cache
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Construtores, Palavra THIS , Sobrecarga e encapsulamento/Construtores/Pratica/obj/Debug/netcoreapp3.1/Pratica.dll
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Construtores, Palavra THIS , Sobrecarga e encapsulamento/Construtores/Pratica/obj/Debug/netcoreapp3.1/Pratica.pdb
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Construtores, Palavra THIS , Sobrecarga e encapsulamento/Construtores/Pratica/obj/Debug/netcoreapp3.1/Pratica.genruntimeconfig.cache

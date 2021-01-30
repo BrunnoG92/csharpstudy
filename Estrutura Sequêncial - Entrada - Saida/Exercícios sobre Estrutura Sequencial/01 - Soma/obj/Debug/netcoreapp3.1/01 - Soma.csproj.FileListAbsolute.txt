@@ -1,0 +1,13 @@
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/01 - Soma/bin/Debug/netcoreapp3.1/01 - Soma
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/01 - Soma/bin/Debug/netcoreapp3.1/01 - Soma.deps.json
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/01 - Soma/bin/Debug/netcoreapp3.1/01 - Soma.runtimeconfig.json
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/01 - Soma/bin/Debug/netcoreapp3.1/01 - Soma.runtimeconfig.dev.json
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/01 - Soma/bin/Debug/netcoreapp3.1/01 - Soma.dll
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/01 - Soma/bin/Debug/netcoreapp3.1/01 - Soma.pdb
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/01 - Soma/obj/Debug/netcoreapp3.1/01 - Soma.csprojAssemblyReference.cache
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/01 - Soma/obj/Debug/netcoreapp3.1/01 - Soma.AssemblyInfoInputs.cache
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/01 - Soma/obj/Debug/netcoreapp3.1/01 - Soma.AssemblyInfo.cs
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/01 - Soma/obj/Debug/netcoreapp3.1/01 - Soma.csproj.CoreCompileInputs.cache
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/01 - Soma/obj/Debug/netcoreapp3.1/01 - Soma.dll
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/01 - Soma/obj/Debug/netcoreapp3.1/01 - Soma.pdb
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/01 - Soma/obj/Debug/netcoreapp3.1/01 - Soma.genruntimeconfig.cache

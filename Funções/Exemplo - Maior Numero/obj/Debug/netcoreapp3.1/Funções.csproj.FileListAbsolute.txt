@@ -1,0 +1,13 @@
+/home/bruno/Documents/Aula C#/Funções/bin/Debug/netcoreapp3.1/Funções
+/home/bruno/Documents/Aula C#/Funções/bin/Debug/netcoreapp3.1/Funções.deps.json
+/home/bruno/Documents/Aula C#/Funções/bin/Debug/netcoreapp3.1/Funções.runtimeconfig.json
+/home/bruno/Documents/Aula C#/Funções/bin/Debug/netcoreapp3.1/Funções.runtimeconfig.dev.json
+/home/bruno/Documents/Aula C#/Funções/bin/Debug/netcoreapp3.1/Funções.dll
+/home/bruno/Documents/Aula C#/Funções/bin/Debug/netcoreapp3.1/Funções.pdb
+/home/bruno/Documents/Aula C#/Funções/obj/Debug/netcoreapp3.1/Funções.csprojAssemblyReference.cache
+/home/bruno/Documents/Aula C#/Funções/obj/Debug/netcoreapp3.1/Funções.AssemblyInfoInputs.cache
+/home/bruno/Documents/Aula C#/Funções/obj/Debug/netcoreapp3.1/Funções.AssemblyInfo.cs
+/home/bruno/Documents/Aula C#/Funções/obj/Debug/netcoreapp3.1/Funções.csproj.CoreCompileInputs.cache
+/home/bruno/Documents/Aula C#/Funções/obj/Debug/netcoreapp3.1/Funções.dll
+/home/bruno/Documents/Aula C#/Funções/obj/Debug/netcoreapp3.1/Funções.pdb
+/home/bruno/Documents/Aula C#/Funções/obj/Debug/netcoreapp3.1/Funções.genruntimeconfig.cache

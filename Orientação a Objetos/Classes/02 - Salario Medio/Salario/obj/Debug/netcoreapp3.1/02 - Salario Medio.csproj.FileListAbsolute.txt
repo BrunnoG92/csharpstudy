@@ -1,0 +1,13 @@
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Classes/02 - Salario Medio/Salario/bin/Debug/netcoreapp3.1/02 - Salario Medio
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Classes/02 - Salario Medio/Salario/bin/Debug/netcoreapp3.1/02 - Salario Medio.deps.json
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Classes/02 - Salario Medio/Salario/bin/Debug/netcoreapp3.1/02 - Salario Medio.runtimeconfig.json
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Classes/02 - Salario Medio/Salario/bin/Debug/netcoreapp3.1/02 - Salario Medio.runtimeconfig.dev.json
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Classes/02 - Salario Medio/Salario/bin/Debug/netcoreapp3.1/02 - Salario Medio.dll
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Classes/02 - Salario Medio/Salario/bin/Debug/netcoreapp3.1/02 - Salario Medio.pdb
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Classes/02 - Salario Medio/Salario/obj/Debug/netcoreapp3.1/02 - Salario Medio.csprojAssemblyReference.cache
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Classes/02 - Salario Medio/Salario/obj/Debug/netcoreapp3.1/02 - Salario Medio.AssemblyInfoInputs.cache
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Classes/02 - Salario Medio/Salario/obj/Debug/netcoreapp3.1/02 - Salario Medio.AssemblyInfo.cs
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Classes/02 - Salario Medio/Salario/obj/Debug/netcoreapp3.1/02 - Salario Medio.csproj.CoreCompileInputs.cache
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Classes/02 - Salario Medio/Salario/obj/Debug/netcoreapp3.1/02 - Salario Medio.dll
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Classes/02 - Salario Medio/Salario/obj/Debug/netcoreapp3.1/02 - Salario Medio.pdb
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Classes/02 - Salario Medio/Salario/obj/Debug/netcoreapp3.1/02 - Salario Medio.genruntimeconfig.cache

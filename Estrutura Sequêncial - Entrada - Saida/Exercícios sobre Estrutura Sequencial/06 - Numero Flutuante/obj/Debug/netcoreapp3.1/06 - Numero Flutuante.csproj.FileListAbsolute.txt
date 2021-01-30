@@ -1,0 +1,13 @@
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/06 - Numero Flutuante/bin/Debug/netcoreapp3.1/06 - Numero Flutuante
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/06 - Numero Flutuante/bin/Debug/netcoreapp3.1/06 - Numero Flutuante.deps.json
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/06 - Numero Flutuante/bin/Debug/netcoreapp3.1/06 - Numero Flutuante.runtimeconfig.json
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/06 - Numero Flutuante/bin/Debug/netcoreapp3.1/06 - Numero Flutuante.runtimeconfig.dev.json
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/06 - Numero Flutuante/bin/Debug/netcoreapp3.1/06 - Numero Flutuante.dll
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/06 - Numero Flutuante/bin/Debug/netcoreapp3.1/06 - Numero Flutuante.pdb
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/06 - Numero Flutuante/obj/Debug/netcoreapp3.1/06 - Numero Flutuante.csprojAssemblyReference.cache
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/06 - Numero Flutuante/obj/Debug/netcoreapp3.1/06 - Numero Flutuante.AssemblyInfoInputs.cache
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/06 - Numero Flutuante/obj/Debug/netcoreapp3.1/06 - Numero Flutuante.AssemblyInfo.cs
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/06 - Numero Flutuante/obj/Debug/netcoreapp3.1/06 - Numero Flutuante.csproj.CoreCompileInputs.cache
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/06 - Numero Flutuante/obj/Debug/netcoreapp3.1/06 - Numero Flutuante.dll
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/06 - Numero Flutuante/obj/Debug/netcoreapp3.1/06 - Numero Flutuante.pdb
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/06 - Numero Flutuante/obj/Debug/netcoreapp3.1/06 - Numero Flutuante.genruntimeconfig.cache

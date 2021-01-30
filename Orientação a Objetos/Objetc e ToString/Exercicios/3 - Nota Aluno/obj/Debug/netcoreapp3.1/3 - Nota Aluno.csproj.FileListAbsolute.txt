@@ -1,0 +1,13 @@
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicios/3 - Nota Aluno/bin/Debug/netcoreapp3.1/3 - Nota Aluno
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicios/3 - Nota Aluno/bin/Debug/netcoreapp3.1/3 - Nota Aluno.deps.json
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicios/3 - Nota Aluno/bin/Debug/netcoreapp3.1/3 - Nota Aluno.runtimeconfig.json
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicios/3 - Nota Aluno/bin/Debug/netcoreapp3.1/3 - Nota Aluno.runtimeconfig.dev.json
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicios/3 - Nota Aluno/bin/Debug/netcoreapp3.1/3 - Nota Aluno.dll
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicios/3 - Nota Aluno/bin/Debug/netcoreapp3.1/3 - Nota Aluno.pdb
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicios/3 - Nota Aluno/obj/Debug/netcoreapp3.1/3 - Nota Aluno.csprojAssemblyReference.cache
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicios/3 - Nota Aluno/obj/Debug/netcoreapp3.1/3 - Nota Aluno.AssemblyInfoInputs.cache
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicios/3 - Nota Aluno/obj/Debug/netcoreapp3.1/3 - Nota Aluno.AssemblyInfo.cs
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicios/3 - Nota Aluno/obj/Debug/netcoreapp3.1/3 - Nota Aluno.csproj.CoreCompileInputs.cache
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicios/3 - Nota Aluno/obj/Debug/netcoreapp3.1/3 - Nota Aluno.dll
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicios/3 - Nota Aluno/obj/Debug/netcoreapp3.1/3 - Nota Aluno.pdb
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicios/3 - Nota Aluno/obj/Debug/netcoreapp3.1/3 - Nota Aluno.genruntimeconfig.cache

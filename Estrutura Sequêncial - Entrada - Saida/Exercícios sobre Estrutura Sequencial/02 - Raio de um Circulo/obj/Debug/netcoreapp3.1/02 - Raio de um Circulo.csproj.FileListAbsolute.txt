@@ -1,0 +1,13 @@
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/02 - Raio de um Circulo/bin/Debug/netcoreapp3.1/02 - Raio de um Circulo
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/02 - Raio de um Circulo/bin/Debug/netcoreapp3.1/02 - Raio de um Circulo.deps.json
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/02 - Raio de um Circulo/bin/Debug/netcoreapp3.1/02 - Raio de um Circulo.runtimeconfig.json
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/02 - Raio de um Circulo/bin/Debug/netcoreapp3.1/02 - Raio de um Circulo.runtimeconfig.dev.json
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/02 - Raio de um Circulo/bin/Debug/netcoreapp3.1/02 - Raio de um Circulo.dll
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/02 - Raio de um Circulo/bin/Debug/netcoreapp3.1/02 - Raio de um Circulo.pdb
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/02 - Raio de um Circulo/obj/Debug/netcoreapp3.1/02 - Raio de um Circulo.csprojAssemblyReference.cache
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/02 - Raio de um Circulo/obj/Debug/netcoreapp3.1/02 - Raio de um Circulo.AssemblyInfoInputs.cache
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/02 - Raio de um Circulo/obj/Debug/netcoreapp3.1/02 - Raio de um Circulo.AssemblyInfo.cs
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/02 - Raio de um Circulo/obj/Debug/netcoreapp3.1/02 - Raio de um Circulo.csproj.CoreCompileInputs.cache
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/02 - Raio de um Circulo/obj/Debug/netcoreapp3.1/02 - Raio de um Circulo.dll
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/02 - Raio de um Circulo/obj/Debug/netcoreapp3.1/02 - Raio de um Circulo.pdb
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/02 - Raio de um Circulo/obj/Debug/netcoreapp3.1/02 - Raio de um Circulo.genruntimeconfig.cache

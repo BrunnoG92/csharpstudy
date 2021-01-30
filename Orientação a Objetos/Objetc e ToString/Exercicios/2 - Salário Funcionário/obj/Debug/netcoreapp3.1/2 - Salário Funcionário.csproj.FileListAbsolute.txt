@@ -1,0 +1,13 @@
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicios/2 - Salário Funcionário/bin/Debug/netcoreapp3.1/2 - Salário Funcionário
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicios/2 - Salário Funcionário/bin/Debug/netcoreapp3.1/2 - Salário Funcionário.deps.json
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicios/2 - Salário Funcionário/bin/Debug/netcoreapp3.1/2 - Salário Funcionário.runtimeconfig.json
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicios/2 - Salário Funcionário/bin/Debug/netcoreapp3.1/2 - Salário Funcionário.runtimeconfig.dev.json
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicios/2 - Salário Funcionário/bin/Debug/netcoreapp3.1/2 - Salário Funcionário.dll
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicios/2 - Salário Funcionário/bin/Debug/netcoreapp3.1/2 - Salário Funcionário.pdb
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicios/2 - Salário Funcionário/obj/Debug/netcoreapp3.1/2 - Salário Funcionário.csprojAssemblyReference.cache
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicios/2 - Salário Funcionário/obj/Debug/netcoreapp3.1/2 - Salário Funcionário.AssemblyInfoInputs.cache
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicios/2 - Salário Funcionário/obj/Debug/netcoreapp3.1/2 - Salário Funcionário.AssemblyInfo.cs
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicios/2 - Salário Funcionário/obj/Debug/netcoreapp3.1/2 - Salário Funcionário.csproj.CoreCompileInputs.cache
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicios/2 - Salário Funcionário/obj/Debug/netcoreapp3.1/2 - Salário Funcionário.dll
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicios/2 - Salário Funcionário/obj/Debug/netcoreapp3.1/2 - Salário Funcionário.pdb
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicios/2 - Salário Funcionário/obj/Debug/netcoreapp3.1/2 - Salário Funcionário.genruntimeconfig.cache

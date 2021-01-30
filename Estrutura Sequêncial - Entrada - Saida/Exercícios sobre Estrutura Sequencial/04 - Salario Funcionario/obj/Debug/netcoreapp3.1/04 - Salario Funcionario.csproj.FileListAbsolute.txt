@@ -1,0 +1,13 @@
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/04 - Salario Funcionario/bin/Debug/netcoreapp3.1/04 - Salario Funcionario
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/04 - Salario Funcionario/bin/Debug/netcoreapp3.1/04 - Salario Funcionario.deps.json
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/04 - Salario Funcionario/bin/Debug/netcoreapp3.1/04 - Salario Funcionario.runtimeconfig.json
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/04 - Salario Funcionario/bin/Debug/netcoreapp3.1/04 - Salario Funcionario.runtimeconfig.dev.json
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/04 - Salario Funcionario/bin/Debug/netcoreapp3.1/04 - Salario Funcionario.dll
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/04 - Salario Funcionario/bin/Debug/netcoreapp3.1/04 - Salario Funcionario.pdb
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/04 - Salario Funcionario/obj/Debug/netcoreapp3.1/04 - Salario Funcionario.csprojAssemblyReference.cache
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/04 - Salario Funcionario/obj/Debug/netcoreapp3.1/04 - Salario Funcionario.AssemblyInfoInputs.cache
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/04 - Salario Funcionario/obj/Debug/netcoreapp3.1/04 - Salario Funcionario.AssemblyInfo.cs
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/04 - Salario Funcionario/obj/Debug/netcoreapp3.1/04 - Salario Funcionario.csproj.CoreCompileInputs.cache
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/04 - Salario Funcionario/obj/Debug/netcoreapp3.1/04 - Salario Funcionario.dll
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/04 - Salario Funcionario/obj/Debug/netcoreapp3.1/04 - Salario Funcionario.pdb
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/04 - Salario Funcionario/obj/Debug/netcoreapp3.1/04 - Salario Funcionario.genruntimeconfig.cache

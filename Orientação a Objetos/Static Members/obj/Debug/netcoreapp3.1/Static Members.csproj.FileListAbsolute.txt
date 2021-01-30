@@ -1,0 +1,13 @@
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Static Members/bin/Debug/netcoreapp3.1/Static Members
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Static Members/bin/Debug/netcoreapp3.1/Static Members.deps.json
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Static Members/bin/Debug/netcoreapp3.1/Static Members.runtimeconfig.json
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Static Members/bin/Debug/netcoreapp3.1/Static Members.runtimeconfig.dev.json
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Static Members/bin/Debug/netcoreapp3.1/Static Members.dll
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Static Members/bin/Debug/netcoreapp3.1/Static Members.pdb
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Static Members/obj/Debug/netcoreapp3.1/Static Members.csprojAssemblyReference.cache
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Static Members/obj/Debug/netcoreapp3.1/Static Members.AssemblyInfoInputs.cache
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Static Members/obj/Debug/netcoreapp3.1/Static Members.AssemblyInfo.cs
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Static Members/obj/Debug/netcoreapp3.1/Static Members.csproj.CoreCompileInputs.cache
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Static Members/obj/Debug/netcoreapp3.1/Static Members.dll
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Static Members/obj/Debug/netcoreapp3.1/Static Members.pdb
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Static Members/obj/Debug/netcoreapp3.1/Static Members.genruntimeconfig.cache

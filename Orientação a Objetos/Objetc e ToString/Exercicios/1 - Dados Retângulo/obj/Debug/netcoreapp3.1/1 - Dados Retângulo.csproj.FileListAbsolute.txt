@@ -1,0 +1,13 @@
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicios/1 - Dados Retângulo/bin/Debug/netcoreapp3.1/1 - Dados Retângulo
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicios/1 - Dados Retângulo/bin/Debug/netcoreapp3.1/1 - Dados Retângulo.deps.json
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicios/1 - Dados Retângulo/bin/Debug/netcoreapp3.1/1 - Dados Retângulo.runtimeconfig.json
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicios/1 - Dados Retângulo/bin/Debug/netcoreapp3.1/1 - Dados Retângulo.runtimeconfig.dev.json
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicios/1 - Dados Retângulo/bin/Debug/netcoreapp3.1/1 - Dados Retângulo.dll
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicios/1 - Dados Retângulo/bin/Debug/netcoreapp3.1/1 - Dados Retângulo.pdb
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicios/1 - Dados Retângulo/obj/Debug/netcoreapp3.1/1 - Dados Retângulo.csprojAssemblyReference.cache
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicios/1 - Dados Retângulo/obj/Debug/netcoreapp3.1/1 - Dados Retângulo.AssemblyInfoInputs.cache
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicios/1 - Dados Retângulo/obj/Debug/netcoreapp3.1/1 - Dados Retângulo.AssemblyInfo.cs
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicios/1 - Dados Retângulo/obj/Debug/netcoreapp3.1/1 - Dados Retângulo.csproj.CoreCompileInputs.cache
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicios/1 - Dados Retângulo/obj/Debug/netcoreapp3.1/1 - Dados Retângulo.dll
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicios/1 - Dados Retângulo/obj/Debug/netcoreapp3.1/1 - Dados Retângulo.pdb
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicios/1 - Dados Retângulo/obj/Debug/netcoreapp3.1/1 - Dados Retângulo.genruntimeconfig.cache

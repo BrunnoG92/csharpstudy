@@ -1,0 +1,13 @@
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/07 Coordernadas/bin/Debug/netcoreapp3.1/07 Coordernadas
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/07 Coordernadas/bin/Debug/netcoreapp3.1/07 Coordernadas.deps.json
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/07 Coordernadas/bin/Debug/netcoreapp3.1/07 Coordernadas.runtimeconfig.json
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/07 Coordernadas/bin/Debug/netcoreapp3.1/07 Coordernadas.runtimeconfig.dev.json
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/07 Coordernadas/bin/Debug/netcoreapp3.1/07 Coordernadas.dll
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/07 Coordernadas/bin/Debug/netcoreapp3.1/07 Coordernadas.pdb
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/07 Coordernadas/obj/Debug/netcoreapp3.1/07 Coordernadas.csprojAssemblyReference.cache
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/07 Coordernadas/obj/Debug/netcoreapp3.1/07 Coordernadas.AssemblyInfoInputs.cache
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/07 Coordernadas/obj/Debug/netcoreapp3.1/07 Coordernadas.AssemblyInfo.cs
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/07 Coordernadas/obj/Debug/netcoreapp3.1/07 Coordernadas.csproj.CoreCompileInputs.cache
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/07 Coordernadas/obj/Debug/netcoreapp3.1/07 Coordernadas.dll
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/07 Coordernadas/obj/Debug/netcoreapp3.1/07 Coordernadas.pdb
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/07 Coordernadas/obj/Debug/netcoreapp3.1/07 Coordernadas.genruntimeconfig.cache

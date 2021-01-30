@@ -1,0 +1,13 @@
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicio Resolvido/bin/Debug/netcoreapp3.1/Exercicio Resolvido
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicio Resolvido/bin/Debug/netcoreapp3.1/Exercicio Resolvido.deps.json
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicio Resolvido/bin/Debug/netcoreapp3.1/Exercicio Resolvido.runtimeconfig.json
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicio Resolvido/bin/Debug/netcoreapp3.1/Exercicio Resolvido.runtimeconfig.dev.json
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicio Resolvido/bin/Debug/netcoreapp3.1/Exercicio Resolvido.dll
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicio Resolvido/bin/Debug/netcoreapp3.1/Exercicio Resolvido.pdb
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicio Resolvido/obj/Debug/netcoreapp3.1/Exercicio Resolvido.csprojAssemblyReference.cache
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicio Resolvido/obj/Debug/netcoreapp3.1/Exercicio Resolvido.AssemblyInfoInputs.cache
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicio Resolvido/obj/Debug/netcoreapp3.1/Exercicio Resolvido.AssemblyInfo.cs
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicio Resolvido/obj/Debug/netcoreapp3.1/Exercicio Resolvido.csproj.CoreCompileInputs.cache
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicio Resolvido/obj/Debug/netcoreapp3.1/Exercicio Resolvido.dll
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicio Resolvido/obj/Debug/netcoreapp3.1/Exercicio Resolvido.pdb
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio 1 Fixação/Objetc e ToString/Exercicio Resolvido/obj/Debug/netcoreapp3.1/Exercicio Resolvido.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Problema do Triangulo/Resolução sem POO/bin/Debug/netcoreapp3.1/Resolução sem POO
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Problema do Triangulo/Resolução sem POO/bin/Debug/netcoreapp3.1/Resolução sem POO.deps.json
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Problema do Triangulo/Resolução sem POO/bin/Debug/netcoreapp3.1/Resolução sem POO.runtimeconfig.json
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Problema do Triangulo/Resolução sem POO/bin/Debug/netcoreapp3.1/Resolução sem POO.runtimeconfig.dev.json
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Problema do Triangulo/Resolução sem POO/bin/Debug/netcoreapp3.1/Resolução sem POO.dll
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Problema do Triangulo/Resolução sem POO/bin/Debug/netcoreapp3.1/Resolução sem POO.pdb
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Problema do Triangulo/Resolução sem POO/obj/Debug/netcoreapp3.1/Resolução sem POO.csprojAssemblyReference.cache
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Problema do Triangulo/Resolução sem POO/obj/Debug/netcoreapp3.1/Resolução sem POO.AssemblyInfoInputs.cache
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Problema do Triangulo/Resolução sem POO/obj/Debug/netcoreapp3.1/Resolução sem POO.AssemblyInfo.cs
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Problema do Triangulo/Resolução sem POO/obj/Debug/netcoreapp3.1/Resolução sem POO.csproj.CoreCompileInputs.cache
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Problema do Triangulo/Resolução sem POO/obj/Debug/netcoreapp3.1/Resolução sem POO.dll
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Problema do Triangulo/Resolução sem POO/obj/Debug/netcoreapp3.1/Resolução sem POO.pdb
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Problema do Triangulo/Resolução sem POO/obj/Debug/netcoreapp3.1/Resolução sem POO.genruntimeconfig.cache

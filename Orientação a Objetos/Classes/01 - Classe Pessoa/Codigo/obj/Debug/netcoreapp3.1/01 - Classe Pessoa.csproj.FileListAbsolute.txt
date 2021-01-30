@@ -1,0 +1,13 @@
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio/Classes/01 - Classe Pessoa/Codigo/bin/Debug/netcoreapp3.1/01 - Classe Pessoa
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio/Classes/01 - Classe Pessoa/Codigo/bin/Debug/netcoreapp3.1/01 - Classe Pessoa.deps.json
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio/Classes/01 - Classe Pessoa/Codigo/bin/Debug/netcoreapp3.1/01 - Classe Pessoa.runtimeconfig.json
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio/Classes/01 - Classe Pessoa/Codigo/bin/Debug/netcoreapp3.1/01 - Classe Pessoa.runtimeconfig.dev.json
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio/Classes/01 - Classe Pessoa/Codigo/bin/Debug/netcoreapp3.1/01 - Classe Pessoa.dll
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio/Classes/01 - Classe Pessoa/Codigo/bin/Debug/netcoreapp3.1/01 - Classe Pessoa.pdb
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio/Classes/01 - Classe Pessoa/Codigo/obj/Debug/netcoreapp3.1/01 - Classe Pessoa.csprojAssemblyReference.cache
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio/Classes/01 - Classe Pessoa/Codigo/obj/Debug/netcoreapp3.1/01 - Classe Pessoa.AssemblyInfoInputs.cache
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio/Classes/01 - Classe Pessoa/Codigo/obj/Debug/netcoreapp3.1/01 - Classe Pessoa.AssemblyInfo.cs
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio/Classes/01 - Classe Pessoa/Codigo/obj/Debug/netcoreapp3.1/01 - Classe Pessoa.csproj.CoreCompileInputs.cache
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio/Classes/01 - Classe Pessoa/Codigo/obj/Debug/netcoreapp3.1/01 - Classe Pessoa.dll
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio/Classes/01 - Classe Pessoa/Codigo/obj/Debug/netcoreapp3.1/01 - Classe Pessoa.pdb
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Exercicio/Classes/01 - Classe Pessoa/Codigo/obj/Debug/netcoreapp3.1/01 - Classe Pessoa.genruntimeconfig.cache

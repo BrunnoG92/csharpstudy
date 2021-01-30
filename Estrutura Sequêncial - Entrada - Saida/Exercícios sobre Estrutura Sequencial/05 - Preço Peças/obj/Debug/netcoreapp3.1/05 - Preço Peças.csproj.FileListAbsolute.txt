@@ -1,0 +1,13 @@
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/05 - Preço Peças/bin/Debug/netcoreapp3.1/05 - Preço Peças
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/05 - Preço Peças/bin/Debug/netcoreapp3.1/05 - Preço Peças.deps.json
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/05 - Preço Peças/bin/Debug/netcoreapp3.1/05 - Preço Peças.runtimeconfig.json
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/05 - Preço Peças/bin/Debug/netcoreapp3.1/05 - Preço Peças.runtimeconfig.dev.json
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/05 - Preço Peças/bin/Debug/netcoreapp3.1/05 - Preço Peças.dll
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/05 - Preço Peças/bin/Debug/netcoreapp3.1/05 - Preço Peças.pdb
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/05 - Preço Peças/obj/Debug/netcoreapp3.1/05 - Preço Peças.csprojAssemblyReference.cache
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/05 - Preço Peças/obj/Debug/netcoreapp3.1/05 - Preço Peças.AssemblyInfoInputs.cache
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/05 - Preço Peças/obj/Debug/netcoreapp3.1/05 - Preço Peças.AssemblyInfo.cs
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/05 - Preço Peças/obj/Debug/netcoreapp3.1/05 - Preço Peças.csproj.CoreCompileInputs.cache
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/05 - Preço Peças/obj/Debug/netcoreapp3.1/05 - Preço Peças.dll
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/05 - Preço Peças/obj/Debug/netcoreapp3.1/05 - Preço Peças.pdb
+/home/bruno/Documents/Aula C#/Estrutura Sequêncial - Entrada - Saida/Exercícios sobre Estrutura Sequencial/05 - Preço Peças/obj/Debug/netcoreapp3.1/05 - Preço Peças.genruntimeconfig.cache

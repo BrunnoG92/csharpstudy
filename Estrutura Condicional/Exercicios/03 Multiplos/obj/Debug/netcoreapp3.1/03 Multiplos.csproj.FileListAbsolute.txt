@@ -1,0 +1,13 @@
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/03 Multiplos/bin/Debug/netcoreapp3.1/03 Multiplos
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/03 Multiplos/bin/Debug/netcoreapp3.1/03 Multiplos.deps.json
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/03 Multiplos/bin/Debug/netcoreapp3.1/03 Multiplos.runtimeconfig.json
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/03 Multiplos/bin/Debug/netcoreapp3.1/03 Multiplos.runtimeconfig.dev.json
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/03 Multiplos/bin/Debug/netcoreapp3.1/03 Multiplos.dll
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/03 Multiplos/bin/Debug/netcoreapp3.1/03 Multiplos.pdb
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/03 Multiplos/obj/Debug/netcoreapp3.1/03 Multiplos.csprojAssemblyReference.cache
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/03 Multiplos/obj/Debug/netcoreapp3.1/03 Multiplos.AssemblyInfoInputs.cache
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/03 Multiplos/obj/Debug/netcoreapp3.1/03 Multiplos.AssemblyInfo.cs
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/03 Multiplos/obj/Debug/netcoreapp3.1/03 Multiplos.csproj.CoreCompileInputs.cache
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/03 Multiplos/obj/Debug/netcoreapp3.1/03 Multiplos.dll
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/03 Multiplos/obj/Debug/netcoreapp3.1/03 Multiplos.pdb
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/03 Multiplos/obj/Debug/netcoreapp3.1/03 Multiplos.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Construtores, Palavra THIS , Sobrecarga e encapsulamento/1.0.0": {
+        "runtime": {
+          "Construtores, Palavra THIS , Sobrecarga e encapsulamento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Construtores, Palavra THIS , Sobrecarga e encapsulamento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

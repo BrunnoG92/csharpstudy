@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Comando Saida/1.0.0": {
+        "runtime": {
+          "Comando Saida.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Comando Saida/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

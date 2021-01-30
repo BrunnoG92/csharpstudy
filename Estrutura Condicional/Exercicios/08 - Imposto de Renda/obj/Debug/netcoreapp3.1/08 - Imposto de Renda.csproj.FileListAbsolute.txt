@@ -1,0 +1,13 @@
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/08 - Imposto de Renda/bin/Debug/netcoreapp3.1/08 - Imposto de Renda
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/08 - Imposto de Renda/bin/Debug/netcoreapp3.1/08 - Imposto de Renda.deps.json
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/08 - Imposto de Renda/bin/Debug/netcoreapp3.1/08 - Imposto de Renda.runtimeconfig.json
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/08 - Imposto de Renda/bin/Debug/netcoreapp3.1/08 - Imposto de Renda.runtimeconfig.dev.json
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/08 - Imposto de Renda/bin/Debug/netcoreapp3.1/08 - Imposto de Renda.dll
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/08 - Imposto de Renda/bin/Debug/netcoreapp3.1/08 - Imposto de Renda.pdb
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/08 - Imposto de Renda/obj/Debug/netcoreapp3.1/08 - Imposto de Renda.csprojAssemblyReference.cache
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/08 - Imposto de Renda/obj/Debug/netcoreapp3.1/08 - Imposto de Renda.AssemblyInfoInputs.cache
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/08 - Imposto de Renda/obj/Debug/netcoreapp3.1/08 - Imposto de Renda.AssemblyInfo.cs
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/08 - Imposto de Renda/obj/Debug/netcoreapp3.1/08 - Imposto de Renda.csproj.CoreCompileInputs.cache
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/08 - Imposto de Renda/obj/Debug/netcoreapp3.1/08 - Imposto de Renda.dll
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/08 - Imposto de Renda/obj/Debug/netcoreapp3.1/08 - Imposto de Renda.pdb
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/08 - Imposto de Renda/obj/Debug/netcoreapp3.1/08 - Imposto de Renda.genruntimeconfig.cache

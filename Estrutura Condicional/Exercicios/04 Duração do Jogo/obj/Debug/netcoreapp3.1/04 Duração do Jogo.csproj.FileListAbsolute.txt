@@ -1,0 +1,13 @@
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/04 Duração do Jogo/bin/Debug/netcoreapp3.1/04 Duração do Jogo
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/04 Duração do Jogo/bin/Debug/netcoreapp3.1/04 Duração do Jogo.deps.json
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/04 Duração do Jogo/bin/Debug/netcoreapp3.1/04 Duração do Jogo.runtimeconfig.json
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/04 Duração do Jogo/bin/Debug/netcoreapp3.1/04 Duração do Jogo.runtimeconfig.dev.json
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/04 Duração do Jogo/bin/Debug/netcoreapp3.1/04 Duração do Jogo.dll
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/04 Duração do Jogo/bin/Debug/netcoreapp3.1/04 Duração do Jogo.pdb
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/04 Duração do Jogo/obj/Debug/netcoreapp3.1/04 Duração do Jogo.csprojAssemblyReference.cache
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/04 Duração do Jogo/obj/Debug/netcoreapp3.1/04 Duração do Jogo.AssemblyInfoInputs.cache
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/04 Duração do Jogo/obj/Debug/netcoreapp3.1/04 Duração do Jogo.AssemblyInfo.cs
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/04 Duração do Jogo/obj/Debug/netcoreapp3.1/04 Duração do Jogo.csproj.CoreCompileInputs.cache
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/04 Duração do Jogo/obj/Debug/netcoreapp3.1/04 Duração do Jogo.dll
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/04 Duração do Jogo/obj/Debug/netcoreapp3.1/04 Duração do Jogo.pdb
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/04 Duração do Jogo/obj/Debug/netcoreapp3.1/04 Duração do Jogo.genruntimeconfig.cache

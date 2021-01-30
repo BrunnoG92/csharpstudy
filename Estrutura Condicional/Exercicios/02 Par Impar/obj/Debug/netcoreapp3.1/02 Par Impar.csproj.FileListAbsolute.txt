@@ -1,0 +1,13 @@
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/02 Par Impar/obj/Debug/netcoreapp3.1/02 Par Impar.csprojAssemblyReference.cache
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/02 Par Impar/obj/Debug/netcoreapp3.1/02 Par Impar.AssemblyInfoInputs.cache
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/02 Par Impar/obj/Debug/netcoreapp3.1/02 Par Impar.AssemblyInfo.cs
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/02 Par Impar/obj/Debug/netcoreapp3.1/02 Par Impar.csproj.CoreCompileInputs.cache
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/02 Par Impar/bin/Debug/netcoreapp3.1/02 Par Impar
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/02 Par Impar/bin/Debug/netcoreapp3.1/02 Par Impar.deps.json
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/02 Par Impar/bin/Debug/netcoreapp3.1/02 Par Impar.runtimeconfig.json
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/02 Par Impar/bin/Debug/netcoreapp3.1/02 Par Impar.runtimeconfig.dev.json
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/02 Par Impar/bin/Debug/netcoreapp3.1/02 Par Impar.dll
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/02 Par Impar/bin/Debug/netcoreapp3.1/02 Par Impar.pdb
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/02 Par Impar/obj/Debug/netcoreapp3.1/02 Par Impar.dll
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/02 Par Impar/obj/Debug/netcoreapp3.1/02 Par Impar.pdb
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/02 Par Impar/obj/Debug/netcoreapp3.1/02 Par Impar.genruntimeconfig.cache

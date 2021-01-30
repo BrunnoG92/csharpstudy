@@ -1,0 +1,13 @@
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Construtores, Palavra THIS , Sobrecarga e encapsulamento/Exercicios/Banco/bin/Debug/netcoreapp3.1/Banco
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Construtores, Palavra THIS , Sobrecarga e encapsulamento/Exercicios/Banco/bin/Debug/netcoreapp3.1/Banco.deps.json
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Construtores, Palavra THIS , Sobrecarga e encapsulamento/Exercicios/Banco/bin/Debug/netcoreapp3.1/Banco.runtimeconfig.json
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Construtores, Palavra THIS , Sobrecarga e encapsulamento/Exercicios/Banco/bin/Debug/netcoreapp3.1/Banco.runtimeconfig.dev.json
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Construtores, Palavra THIS , Sobrecarga e encapsulamento/Exercicios/Banco/bin/Debug/netcoreapp3.1/Banco.dll
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Construtores, Palavra THIS , Sobrecarga e encapsulamento/Exercicios/Banco/bin/Debug/netcoreapp3.1/Banco.pdb
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Construtores, Palavra THIS , Sobrecarga e encapsulamento/Exercicios/Banco/obj/Debug/netcoreapp3.1/Banco.csprojAssemblyReference.cache
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Construtores, Palavra THIS , Sobrecarga e encapsulamento/Exercicios/Banco/obj/Debug/netcoreapp3.1/Banco.AssemblyInfoInputs.cache
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Construtores, Palavra THIS , Sobrecarga e encapsulamento/Exercicios/Banco/obj/Debug/netcoreapp3.1/Banco.AssemblyInfo.cs
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Construtores, Palavra THIS , Sobrecarga e encapsulamento/Exercicios/Banco/obj/Debug/netcoreapp3.1/Banco.csproj.CoreCompileInputs.cache
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Construtores, Palavra THIS , Sobrecarga e encapsulamento/Exercicios/Banco/obj/Debug/netcoreapp3.1/Banco.dll
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Construtores, Palavra THIS , Sobrecarga e encapsulamento/Exercicios/Banco/obj/Debug/netcoreapp3.1/Banco.pdb
+/home/bruno/Documents/Aula C#/Orientação a Objetos/Construtores, Palavra THIS , Sobrecarga e encapsulamento/Exercicios/Banco/obj/Debug/netcoreapp3.1/Banco.genruntimeconfig.cache

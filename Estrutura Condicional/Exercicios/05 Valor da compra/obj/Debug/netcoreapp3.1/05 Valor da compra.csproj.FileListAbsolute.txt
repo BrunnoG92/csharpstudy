@@ -1,0 +1,13 @@
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/05 Valor da compra/bin/Debug/netcoreapp3.1/05 Valor da compra
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/05 Valor da compra/bin/Debug/netcoreapp3.1/05 Valor da compra.deps.json
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/05 Valor da compra/bin/Debug/netcoreapp3.1/05 Valor da compra.runtimeconfig.json
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/05 Valor da compra/bin/Debug/netcoreapp3.1/05 Valor da compra.runtimeconfig.dev.json
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/05 Valor da compra/bin/Debug/netcoreapp3.1/05 Valor da compra.dll
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/05 Valor da compra/bin/Debug/netcoreapp3.1/05 Valor da compra.pdb
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/05 Valor da compra/obj/Debug/netcoreapp3.1/05 Valor da compra.csprojAssemblyReference.cache
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/05 Valor da compra/obj/Debug/netcoreapp3.1/05 Valor da compra.AssemblyInfoInputs.cache
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/05 Valor da compra/obj/Debug/netcoreapp3.1/05 Valor da compra.AssemblyInfo.cs
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/05 Valor da compra/obj/Debug/netcoreapp3.1/05 Valor da compra.csproj.CoreCompileInputs.cache
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/05 Valor da compra/obj/Debug/netcoreapp3.1/05 Valor da compra.dll
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/05 Valor da compra/obj/Debug/netcoreapp3.1/05 Valor da compra.pdb
+/home/bruno/Documents/Aula C#/Estrutura Condicional/Exercicios/05 Valor da compra/obj/Debug/netcoreapp3.1/05 Valor da compra.genruntimeconfig.cache

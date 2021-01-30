@@ -1,0 +1,13 @@
+/home/bruno/Documents/Aula C#/Comandos Básicos/Comando Entrada/bin/Debug/netcoreapp3.1/Comando Entrada
+/home/bruno/Documents/Aula C#/Comandos Básicos/Comando Entrada/bin/Debug/netcoreapp3.1/Comando Entrada.deps.json
+/home/bruno/Documents/Aula C#/Comandos Básicos/Comando Entrada/bin/Debug/netcoreapp3.1/Comando Entrada.runtimeconfig.json
+/home/bruno/Documents/Aula C#/Comandos Básicos/Comando Entrada/bin/Debug/netcoreapp3.1/Comando Entrada.runtimeconfig.dev.json
+/home/bruno/Documents/Aula C#/Comandos Básicos/Comando Entrada/bin/Debug/netcoreapp3.1/Comando Entrada.dll
+/home/bruno/Documents/Aula C#/Comandos Básicos/Comando Entrada/bin/Debug/netcoreapp3.1/Comando Entrada.pdb
+/home/bruno/Documents/Aula C#/Comandos Básicos/Comando Entrada/obj/Debug/netcoreapp3.1/Comando Entrada.csprojAssemblyReference.cache
+/home/bruno/Documents/Aula C#/Comandos Básicos/Comando Entrada/obj/Debug/netcoreapp3.1/Comando Entrada.AssemblyInfoInputs.cache
+/home/bruno/Documents/Aula C#/Comandos Básicos/Comando Entrada/obj/Debug/netcoreapp3.1/Comando Entrada.AssemblyInfo.cs
+/home/bruno/Documents/Aula C#/Comandos Básicos/Comando Entrada/obj/Debug/netcoreapp3.1/Comando Entrada.csproj.CoreCompileInputs.cache
+/home/bruno/Documents/Aula C#/Comandos Básicos/Comando Entrada/obj/Debug/netcoreapp3.1/Comando Entrada.dll
+/home/bruno/Documents/Aula C#/Comandos Básicos/Comando Entrada/obj/Debug/netcoreapp3.1/Comando Entrada.pdb
+/home/bruno/Documents/Aula C#/Comandos Básicos/Comando Entrada/obj/Debug/netcoreapp3.1/Comando Entrada.genruntimeconfig.cache

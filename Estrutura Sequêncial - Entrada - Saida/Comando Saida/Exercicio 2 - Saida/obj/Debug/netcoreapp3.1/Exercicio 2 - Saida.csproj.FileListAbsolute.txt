@@ -1,0 +1,13 @@
+/home/bruno/Documents/Aula C#/Comandos Básicos/Comando Saida/Exercicio 2 - Saida/bin/Debug/netcoreapp3.1/Exercicio 2 - Saida
+/home/bruno/Documents/Aula C#/Comandos Básicos/Comando Saida/Exercicio 2 - Saida/bin/Debug/netcoreapp3.1/Exercicio 2 - Saida.deps.json
+/home/bruno/Documents/Aula C#/Comandos Básicos/Comando Saida/Exercicio 2 - Saida/bin/Debug/netcoreapp3.1/Exercicio 2 - Saida.runtimeconfig.json
+/home/bruno/Documents/Aula C#/Comandos Básicos/Comando Saida/Exercicio 2 - Saida/bin/Debug/netcoreapp3.1/Exercicio 2 - Saida.runtimeconfig.dev.json
+/home/bruno/Documents/Aula C#/Comandos Básicos/Comando Saida/Exercicio 2 - Saida/bin/Debug/netcoreapp3.1/Exercicio 2 - Saida.dll
+/home/bruno/Documents/Aula C#/Comandos Básicos/Comando Saida/Exercicio 2 - Saida/bin/Debug/netcoreapp3.1/Exercicio 2 - Saida.pdb
+/home/bruno/Documents/Aula C#/Comandos Básicos/Comando Saida/Exercicio 2 - Saida/obj/Debug/netcoreapp3.1/Exercicio 2 - Saida.csprojAssemblyReference.cache
+/home/bruno/Documents/Aula C#/Comandos Básicos/Comando Saida/Exercicio 2 - Saida/obj/Debug/netcoreapp3.1/Exercicio 2 - Saida.AssemblyInfoInputs.cache
+/home/bruno/Documents/Aula C#/Comandos Básicos/Comando Saida/Exercicio 2 - Saida/obj/Debug/netcoreapp3.1/Exercicio 2 - Saida.AssemblyInfo.cs
+/home/bruno/Documents/Aula C#/Comandos Básicos/Comando Saida/Exercicio 2 - Saida/obj/Debug/netcoreapp3.1/Exercicio 2 - Saida.csproj.CoreCompileInputs.cache
+/home/bruno/Documents/Aula C#/Comandos Básicos/Comando Saida/Exercicio 2 - Saida/obj/Debug/netcoreapp3.1/Exercicio 2 - Saida.dll
+/home/bruno/Documents/Aula C#/Comandos Básicos/Comando Saida/Exercicio 2 - Saida/obj/Debug/netcoreapp3.1/Exercicio 2 - Saida.pdb
+/home/bruno/Documents/Aula C#/Comandos Básicos/Comando Saida/Exercicio 2 - Saida/obj/Debug/netcoreapp3.1/Exercicio 2 - Saida.genruntimeconfig.cache
