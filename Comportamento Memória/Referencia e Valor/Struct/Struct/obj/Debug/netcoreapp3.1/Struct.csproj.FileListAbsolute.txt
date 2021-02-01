@@ -1,0 +1,13 @@
+C:\Users\Bruno\Desktop\C# estudos\Comportamento Memória\Referencia e Valor\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.exe
+C:\Users\Bruno\Desktop\C# estudos\Comportamento Memória\Referencia e Valor\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.deps.json
+C:\Users\Bruno\Desktop\C# estudos\Comportamento Memória\Referencia e Valor\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.runtimeconfig.json
+C:\Users\Bruno\Desktop\C# estudos\Comportamento Memória\Referencia e Valor\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.runtimeconfig.dev.json
+C:\Users\Bruno\Desktop\C# estudos\Comportamento Memória\Referencia e Valor\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.dll
+C:\Users\Bruno\Desktop\C# estudos\Comportamento Memória\Referencia e Valor\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.pdb
+C:\Users\Bruno\Desktop\C# estudos\Comportamento Memória\Referencia e Valor\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.csprojAssemblyReference.cache
+C:\Users\Bruno\Desktop\C# estudos\Comportamento Memória\Referencia e Valor\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\C# estudos\Comportamento Memória\Referencia e Valor\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\C# estudos\Comportamento Memória\Referencia e Valor\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\C# estudos\Comportamento Memória\Referencia e Valor\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.dll
+C:\Users\Bruno\Desktop\C# estudos\Comportamento Memória\Referencia e Valor\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.pdb
+C:\Users\Bruno\Desktop\C# estudos\Comportamento Memória\Referencia e Valor\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.genruntimeconfig.cache
