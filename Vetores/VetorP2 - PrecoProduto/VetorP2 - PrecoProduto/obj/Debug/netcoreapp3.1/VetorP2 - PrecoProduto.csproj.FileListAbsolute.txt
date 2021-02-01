@@ -1,0 +1,12 @@
+C:\Users\Bruno\Desktop\C# estudos\Vetores\VetorP2 - PrecoProduto\VetorP2 - PrecoProduto\bin\Debug\netcoreapp3.1\VetorP2 - PrecoProduto.exe
+C:\Users\Bruno\Desktop\C# estudos\Vetores\VetorP2 - PrecoProduto\VetorP2 - PrecoProduto\bin\Debug\netcoreapp3.1\VetorP2 - PrecoProduto.deps.json
+C:\Users\Bruno\Desktop\C# estudos\Vetores\VetorP2 - PrecoProduto\VetorP2 - PrecoProduto\bin\Debug\netcoreapp3.1\VetorP2 - PrecoProduto.runtimeconfig.json
+C:\Users\Bruno\Desktop\C# estudos\Vetores\VetorP2 - PrecoProduto\VetorP2 - PrecoProduto\bin\Debug\netcoreapp3.1\VetorP2 - PrecoProduto.runtimeconfig.dev.json
+C:\Users\Bruno\Desktop\C# estudos\Vetores\VetorP2 - PrecoProduto\VetorP2 - PrecoProduto\bin\Debug\netcoreapp3.1\VetorP2 - PrecoProduto.dll
+C:\Users\Bruno\Desktop\C# estudos\Vetores\VetorP2 - PrecoProduto\VetorP2 - PrecoProduto\bin\Debug\netcoreapp3.1\VetorP2 - PrecoProduto.pdb
+C:\Users\Bruno\Desktop\C# estudos\Vetores\VetorP2 - PrecoProduto\VetorP2 - PrecoProduto\obj\Debug\netcoreapp3.1\VetorP2 - PrecoProduto.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\C# estudos\Vetores\VetorP2 - PrecoProduto\VetorP2 - PrecoProduto\obj\Debug\netcoreapp3.1\VetorP2 - PrecoProduto.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\C# estudos\Vetores\VetorP2 - PrecoProduto\VetorP2 - PrecoProduto\obj\Debug\netcoreapp3.1\VetorP2 - PrecoProduto.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\C# estudos\Vetores\VetorP2 - PrecoProduto\VetorP2 - PrecoProduto\obj\Debug\netcoreapp3.1\VetorP2 - PrecoProduto.dll
+C:\Users\Bruno\Desktop\C# estudos\Vetores\VetorP2 - PrecoProduto\VetorP2 - PrecoProduto\obj\Debug\netcoreapp3.1\VetorP2 - PrecoProduto.pdb
+C:\Users\Bruno\Desktop\C# estudos\Vetores\VetorP2 - PrecoProduto\VetorP2 - PrecoProduto\obj\Debug\netcoreapp3.1\VetorP2 - PrecoProduto.genruntimeconfig.cache
