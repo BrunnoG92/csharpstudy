@@ -1,0 +1,12 @@
+C:\Users\Bruno\Desktop\C# estudos\Nullable\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.exe
+C:\Users\Bruno\Desktop\C# estudos\Nullable\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.deps.json
+C:\Users\Bruno\Desktop\C# estudos\Nullable\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.runtimeconfig.json
+C:\Users\Bruno\Desktop\C# estudos\Nullable\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.runtimeconfig.dev.json
+C:\Users\Bruno\Desktop\C# estudos\Nullable\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.dll
+C:\Users\Bruno\Desktop\C# estudos\Nullable\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.pdb
+C:\Users\Bruno\Desktop\C# estudos\Nullable\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\C# estudos\Nullable\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\C# estudos\Nullable\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\C# estudos\Nullable\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.dll
+C:\Users\Bruno\Desktop\C# estudos\Nullable\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.pdb
+C:\Users\Bruno\Desktop\C# estudos\Nullable\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.genruntimeconfig.cache
