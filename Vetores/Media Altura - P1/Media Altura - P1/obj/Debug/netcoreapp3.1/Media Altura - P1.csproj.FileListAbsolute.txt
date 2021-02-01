@@ -1,0 +1,12 @@
+C:\Users\Bruno\Desktop\C# estudos\Vetores\Media Altura - P1\Media Altura - P1\bin\Debug\netcoreapp3.1\Media Altura - P1.exe
+C:\Users\Bruno\Desktop\C# estudos\Vetores\Media Altura - P1\Media Altura - P1\bin\Debug\netcoreapp3.1\Media Altura - P1.deps.json
+C:\Users\Bruno\Desktop\C# estudos\Vetores\Media Altura - P1\Media Altura - P1\bin\Debug\netcoreapp3.1\Media Altura - P1.runtimeconfig.json
+C:\Users\Bruno\Desktop\C# estudos\Vetores\Media Altura - P1\Media Altura - P1\bin\Debug\netcoreapp3.1\Media Altura - P1.runtimeconfig.dev.json
+C:\Users\Bruno\Desktop\C# estudos\Vetores\Media Altura - P1\Media Altura - P1\bin\Debug\netcoreapp3.1\Media Altura - P1.dll
+C:\Users\Bruno\Desktop\C# estudos\Vetores\Media Altura - P1\Media Altura - P1\bin\Debug\netcoreapp3.1\Media Altura - P1.pdb
+C:\Users\Bruno\Desktop\C# estudos\Vetores\Media Altura - P1\Media Altura - P1\obj\Debug\netcoreapp3.1\Media Altura - P1.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\C# estudos\Vetores\Media Altura - P1\Media Altura - P1\obj\Debug\netcoreapp3.1\Media Altura - P1.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\C# estudos\Vetores\Media Altura - P1\Media Altura - P1\obj\Debug\netcoreapp3.1\Media Altura - P1.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\C# estudos\Vetores\Media Altura - P1\Media Altura - P1\obj\Debug\netcoreapp3.1\Media Altura - P1.dll
+C:\Users\Bruno\Desktop\C# estudos\Vetores\Media Altura - P1\Media Altura - P1\obj\Debug\netcoreapp3.1\Media Altura - P1.pdb
+C:\Users\Bruno\Desktop\C# estudos\Vetores\Media Altura - P1\Media Altura - P1\obj\Debug\netcoreapp3.1\Media Altura - P1.genruntimeconfig.cache
