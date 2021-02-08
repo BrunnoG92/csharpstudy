@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bruno\\Desktop\\C# estudos\\Funções\\Exemplo - Maior Numero\\Funções.csproj",
-      "projectName": "Funções",
-      "projectPath": "C:\\Users\\Bruno\\Desktop\\C# estudos\\Funções\\Exemplo - Maior Numero\\Funções.csproj",
+      "projectUniqueName": "C:\\Users\\Bruno\\Desktop\\C# estudos\\Vetores\\Exercicio\\Aluguel de Quartos\\Aluguel_Quartos\\Aluguel_Quartos\\Aluguel_Quartos.csproj",
+      "projectName": "Aluguel_Quartos",
+      "projectPath": "C:\\Users\\Bruno\\Desktop\\C# estudos\\Vetores\\Exercicio\\Aluguel de Quartos\\Aluguel_Quartos\\Aluguel_Quartos\\Aluguel_Quartos.csproj",
       "packagesPath": "C:\\Users\\Bruno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bruno\\Desktop\\C# estudos\\Funções\\Exemplo - Maior Numero\\obj\\",
+      "outputPath": "C:\\Users\\Bruno\\Desktop\\C# estudos\\Vetores\\Exercicio\\Aluguel de Quartos\\Aluguel_Quartos\\Aluguel_Quartos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
