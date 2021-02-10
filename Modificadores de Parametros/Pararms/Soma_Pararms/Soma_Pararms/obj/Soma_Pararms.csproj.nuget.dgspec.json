@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bruno\\Desktop\\C# estudos\\Orientação a Objetos\\Objetc e ToString\\Exercicios\\3 - Nota Aluno\\3 - Nota Aluno.csproj": {}
+    "C:\\Users\\Bruno\\Desktop\\C# estudos\\Modificadores de Parametros\\Pararms\\Soma_Pararms\\Soma_Pararms\\Soma_Pararms.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bruno\\Desktop\\C# estudos\\Orientação a Objetos\\Objetc e ToString\\Exercicios\\3 - Nota Aluno\\3 - Nota Aluno.csproj": {
+    "C:\\Users\\Bruno\\Desktop\\C# estudos\\Modificadores de Parametros\\Pararms\\Soma_Pararms\\Soma_Pararms\\Soma_Pararms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bruno\\Desktop\\C# estudos\\Orientação a Objetos\\Objetc e ToString\\Exercicios\\3 - Nota Aluno\\3 - Nota Aluno.csproj",
-        "projectName": "3 - Nota Aluno",
-        "projectPath": "C:\\Users\\Bruno\\Desktop\\C# estudos\\Orientação a Objetos\\Objetc e ToString\\Exercicios\\3 - Nota Aluno\\3 - Nota Aluno.csproj",
+        "projectUniqueName": "C:\\Users\\Bruno\\Desktop\\C# estudos\\Modificadores de Parametros\\Pararms\\Soma_Pararms\\Soma_Pararms\\Soma_Pararms.csproj",
+        "projectName": "Soma_Pararms",
+        "projectPath": "C:\\Users\\Bruno\\Desktop\\C# estudos\\Modificadores de Parametros\\Pararms\\Soma_Pararms\\Soma_Pararms\\Soma_Pararms.csproj",
         "packagesPath": "C:\\Users\\Bruno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bruno\\Desktop\\C# estudos\\Orientação a Objetos\\Objetc e ToString\\Exercicios\\3 - Nota Aluno\\obj\\",
+        "outputPath": "C:\\Users\\Bruno\\Desktop\\C# estudos\\Modificadores de Parametros\\Pararms\\Soma_Pararms\\Soma_Pararms\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",

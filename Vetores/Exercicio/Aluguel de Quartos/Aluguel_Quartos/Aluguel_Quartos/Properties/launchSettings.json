@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Aluguel_Quartos": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false
+    }
+  }
+}
