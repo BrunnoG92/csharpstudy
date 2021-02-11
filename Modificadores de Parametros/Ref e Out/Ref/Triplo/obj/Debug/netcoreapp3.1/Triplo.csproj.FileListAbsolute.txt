@@ -1,0 +1,12 @@
+C:\Users\Bruno\Desktop\C# estudos\Modificadores de Parametros\Ref e Out\Triplo\bin\Debug\netcoreapp3.1\Triplo.exe
+C:\Users\Bruno\Desktop\C# estudos\Modificadores de Parametros\Ref e Out\Triplo\bin\Debug\netcoreapp3.1\Triplo.deps.json
+C:\Users\Bruno\Desktop\C# estudos\Modificadores de Parametros\Ref e Out\Triplo\bin\Debug\netcoreapp3.1\Triplo.runtimeconfig.json
+C:\Users\Bruno\Desktop\C# estudos\Modificadores de Parametros\Ref e Out\Triplo\bin\Debug\netcoreapp3.1\Triplo.runtimeconfig.dev.json
+C:\Users\Bruno\Desktop\C# estudos\Modificadores de Parametros\Ref e Out\Triplo\bin\Debug\netcoreapp3.1\Triplo.dll
+C:\Users\Bruno\Desktop\C# estudos\Modificadores de Parametros\Ref e Out\Triplo\bin\Debug\netcoreapp3.1\Triplo.pdb
+C:\Users\Bruno\Desktop\C# estudos\Modificadores de Parametros\Ref e Out\Triplo\obj\Debug\netcoreapp3.1\Triplo.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\C# estudos\Modificadores de Parametros\Ref e Out\Triplo\obj\Debug\netcoreapp3.1\Triplo.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\C# estudos\Modificadores de Parametros\Ref e Out\Triplo\obj\Debug\netcoreapp3.1\Triplo.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\C# estudos\Modificadores de Parametros\Ref e Out\Triplo\obj\Debug\netcoreapp3.1\Triplo.dll
+C:\Users\Bruno\Desktop\C# estudos\Modificadores de Parametros\Ref e Out\Triplo\obj\Debug\netcoreapp3.1\Triplo.pdb
+C:\Users\Bruno\Desktop\C# estudos\Modificadores de Parametros\Ref e Out\Triplo\obj\Debug\netcoreapp3.1\Triplo.genruntimeconfig.cache
