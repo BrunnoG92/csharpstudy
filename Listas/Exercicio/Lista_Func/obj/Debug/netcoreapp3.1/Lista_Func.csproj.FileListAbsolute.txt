@@ -1,0 +1,13 @@
+C:\Users\Bruno\Desktop\C# estudos\Listas\Exercicio\Lista_Func\bin\Debug\netcoreapp3.1\Lista_Func.exe
+C:\Users\Bruno\Desktop\C# estudos\Listas\Exercicio\Lista_Func\bin\Debug\netcoreapp3.1\Lista_Func.deps.json
+C:\Users\Bruno\Desktop\C# estudos\Listas\Exercicio\Lista_Func\bin\Debug\netcoreapp3.1\Lista_Func.runtimeconfig.json
+C:\Users\Bruno\Desktop\C# estudos\Listas\Exercicio\Lista_Func\bin\Debug\netcoreapp3.1\Lista_Func.runtimeconfig.dev.json
+C:\Users\Bruno\Desktop\C# estudos\Listas\Exercicio\Lista_Func\bin\Debug\netcoreapp3.1\Lista_Func.dll
+C:\Users\Bruno\Desktop\C# estudos\Listas\Exercicio\Lista_Func\bin\Debug\netcoreapp3.1\Lista_Func.pdb
+C:\Users\Bruno\Desktop\C# estudos\Listas\Exercicio\Lista_Func\obj\Debug\netcoreapp3.1\Lista_Func.csprojAssemblyReference.cache
+C:\Users\Bruno\Desktop\C# estudos\Listas\Exercicio\Lista_Func\obj\Debug\netcoreapp3.1\Lista_Func.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\C# estudos\Listas\Exercicio\Lista_Func\obj\Debug\netcoreapp3.1\Lista_Func.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\C# estudos\Listas\Exercicio\Lista_Func\obj\Debug\netcoreapp3.1\Lista_Func.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\C# estudos\Listas\Exercicio\Lista_Func\obj\Debug\netcoreapp3.1\Lista_Func.dll
+C:\Users\Bruno\Desktop\C# estudos\Listas\Exercicio\Lista_Func\obj\Debug\netcoreapp3.1\Lista_Func.pdb
+C:\Users\Bruno\Desktop\C# estudos\Listas\Exercicio\Lista_Func\obj\Debug\netcoreapp3.1\Lista_Func.genruntimeconfig.cache
