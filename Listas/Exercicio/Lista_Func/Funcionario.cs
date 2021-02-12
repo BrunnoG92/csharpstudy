@@ -19,11 +19,13 @@ namespace Salario_Func
 
         public override string ToString()
         {
-            return "ID:" + Id
+            return "----------------- \n" +
+                "ID:" + Id
                 + "|"
-                + "Nome:"+name
+                + "Nome:" + name
                 + "|"
-                + "Salario: R$" + sal.ToString("F2", CultureInfo.InvariantCulture);
+                + "Salario: R$" + sal.ToString("F2", CultureInfo.InvariantCulture)
+                + "\n----------------- \n";
         }
 
     }
