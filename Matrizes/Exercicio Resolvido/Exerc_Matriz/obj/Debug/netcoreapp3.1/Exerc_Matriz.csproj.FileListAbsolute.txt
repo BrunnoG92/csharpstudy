@@ -1,0 +1,13 @@
+C:\Users\Bruno\Desktop\C# estudos\Matrizes\Exercicio Resolvido\Exerc_Matriz\bin\Debug\netcoreapp3.1\Exerc_Matriz.exe
+C:\Users\Bruno\Desktop\C# estudos\Matrizes\Exercicio Resolvido\Exerc_Matriz\bin\Debug\netcoreapp3.1\Exerc_Matriz.deps.json
+C:\Users\Bruno\Desktop\C# estudos\Matrizes\Exercicio Resolvido\Exerc_Matriz\bin\Debug\netcoreapp3.1\Exerc_Matriz.runtimeconfig.json
+C:\Users\Bruno\Desktop\C# estudos\Matrizes\Exercicio Resolvido\Exerc_Matriz\bin\Debug\netcoreapp3.1\Exerc_Matriz.runtimeconfig.dev.json
+C:\Users\Bruno\Desktop\C# estudos\Matrizes\Exercicio Resolvido\Exerc_Matriz\bin\Debug\netcoreapp3.1\Exerc_Matriz.dll
+C:\Users\Bruno\Desktop\C# estudos\Matrizes\Exercicio Resolvido\Exerc_Matriz\bin\Debug\netcoreapp3.1\Exerc_Matriz.pdb
+C:\Users\Bruno\Desktop\C# estudos\Matrizes\Exercicio Resolvido\Exerc_Matriz\obj\Debug\netcoreapp3.1\Exerc_Matriz.csprojAssemblyReference.cache
+C:\Users\Bruno\Desktop\C# estudos\Matrizes\Exercicio Resolvido\Exerc_Matriz\obj\Debug\netcoreapp3.1\Exerc_Matriz.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\C# estudos\Matrizes\Exercicio Resolvido\Exerc_Matriz\obj\Debug\netcoreapp3.1\Exerc_Matriz.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\C# estudos\Matrizes\Exercicio Resolvido\Exerc_Matriz\obj\Debug\netcoreapp3.1\Exerc_Matriz.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\C# estudos\Matrizes\Exercicio Resolvido\Exerc_Matriz\obj\Debug\netcoreapp3.1\Exerc_Matriz.dll
+C:\Users\Bruno\Desktop\C# estudos\Matrizes\Exercicio Resolvido\Exerc_Matriz\obj\Debug\netcoreapp3.1\Exerc_Matriz.pdb
+C:\Users\Bruno\Desktop\C# estudos\Matrizes\Exercicio Resolvido\Exerc_Matriz\obj\Debug\netcoreapp3.1\Exerc_Matriz.genruntimeconfig.cache
