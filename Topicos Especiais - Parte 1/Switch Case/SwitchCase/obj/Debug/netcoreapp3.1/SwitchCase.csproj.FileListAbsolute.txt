@@ -1,0 +1,13 @@
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Switch Case\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.exe
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Switch Case\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.deps.json
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Switch Case\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.runtimeconfig.json
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Switch Case\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.runtimeconfig.dev.json
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Switch Case\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.dll
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Switch Case\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.pdb
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Switch Case\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.csprojAssemblyReference.cache
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Switch Case\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Switch Case\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Switch Case\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Switch Case\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.dll
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Switch Case\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.pdb
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Switch Case\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.genruntimeconfig.cache
