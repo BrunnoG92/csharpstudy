@@ -40,8 +40,12 @@ namespace Propriedades_Operacoes
             Console.WriteLine("Somando Horas: " + D1.AddHours(2));
             Console.WriteLine("Somando Minutos: " + D1.AddMinutes(20));
 
-            Console.WriteLine("CALCULOS COM DATAS");
 
+            Console.WriteLine("=============================");
+            Console.WriteLine("CALCULOS COM DATAS");
+            Console.WriteLine("=============================");
+            TimeSpan T1 = D1.Subtract(D2); // DIFERENÇA ENTRE DATAS
+            Console.WriteLine("Diferença entre D1 e D2: " + T1);
 
         }
     }
