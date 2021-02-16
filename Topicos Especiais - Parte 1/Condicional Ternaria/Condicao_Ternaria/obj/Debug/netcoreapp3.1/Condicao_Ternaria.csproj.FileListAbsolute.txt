@@ -1,0 +1,12 @@
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Condicional Ternaria\Condicao_Ternaria\bin\Debug\netcoreapp3.1\Condicao_Ternaria.exe
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Condicional Ternaria\Condicao_Ternaria\bin\Debug\netcoreapp3.1\Condicao_Ternaria.deps.json
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Condicional Ternaria\Condicao_Ternaria\bin\Debug\netcoreapp3.1\Condicao_Ternaria.runtimeconfig.json
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Condicional Ternaria\Condicao_Ternaria\bin\Debug\netcoreapp3.1\Condicao_Ternaria.runtimeconfig.dev.json
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Condicional Ternaria\Condicao_Ternaria\bin\Debug\netcoreapp3.1\Condicao_Ternaria.dll
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Condicional Ternaria\Condicao_Ternaria\bin\Debug\netcoreapp3.1\Condicao_Ternaria.pdb
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Condicional Ternaria\Condicao_Ternaria\obj\Debug\netcoreapp3.1\Condicao_Ternaria.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Condicional Ternaria\Condicao_Ternaria\obj\Debug\netcoreapp3.1\Condicao_Ternaria.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Condicional Ternaria\Condicao_Ternaria\obj\Debug\netcoreapp3.1\Condicao_Ternaria.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Condicional Ternaria\Condicao_Ternaria\obj\Debug\netcoreapp3.1\Condicao_Ternaria.dll
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Condicional Ternaria\Condicao_Ternaria\obj\Debug\netcoreapp3.1\Condicao_Ternaria.pdb
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Condicional Ternaria\Condicao_Ternaria\obj\Debug\netcoreapp3.1\Condicao_Ternaria.genruntimeconfig.cache

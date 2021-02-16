@@ -1,0 +1,12 @@
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Funções para String\Func_String\bin\Debug\netcoreapp3.1\Func_String.exe
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Funções para String\Func_String\bin\Debug\netcoreapp3.1\Func_String.deps.json
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Funções para String\Func_String\bin\Debug\netcoreapp3.1\Func_String.runtimeconfig.json
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Funções para String\Func_String\bin\Debug\netcoreapp3.1\Func_String.runtimeconfig.dev.json
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Funções para String\Func_String\bin\Debug\netcoreapp3.1\Func_String.dll
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Funções para String\Func_String\bin\Debug\netcoreapp3.1\Func_String.pdb
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Funções para String\Func_String\obj\Debug\netcoreapp3.1\Func_String.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Funções para String\Func_String\obj\Debug\netcoreapp3.1\Func_String.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Funções para String\Func_String\obj\Debug\netcoreapp3.1\Func_String.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Funções para String\Func_String\obj\Debug\netcoreapp3.1\Func_String.dll
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Funções para String\Func_String\obj\Debug\netcoreapp3.1\Func_String.pdb
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Funções para String\Func_String\obj\Debug\netcoreapp3.1\Func_String.genruntimeconfig.cache
