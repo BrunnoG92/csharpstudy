@@ -1,0 +1,13 @@
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Propriedades e Operações com Time Span\Propriedades_Operacoes\bin\Debug\netcoreapp3.1\Propriedades_Operacoes.exe
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Propriedades e Operações com Time Span\Propriedades_Operacoes\bin\Debug\netcoreapp3.1\Propriedades_Operacoes.deps.json
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Propriedades e Operações com Time Span\Propriedades_Operacoes\bin\Debug\netcoreapp3.1\Propriedades_Operacoes.runtimeconfig.json
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Propriedades e Operações com Time Span\Propriedades_Operacoes\bin\Debug\netcoreapp3.1\Propriedades_Operacoes.runtimeconfig.dev.json
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Propriedades e Operações com Time Span\Propriedades_Operacoes\bin\Debug\netcoreapp3.1\Propriedades_Operacoes.dll
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Propriedades e Operações com Time Span\Propriedades_Operacoes\bin\Debug\netcoreapp3.1\Propriedades_Operacoes.pdb
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Propriedades e Operações com Time Span\Propriedades_Operacoes\obj\Debug\netcoreapp3.1\Propriedades_Operacoes.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Propriedades e Operações com Time Span\Propriedades_Operacoes\obj\Debug\netcoreapp3.1\Propriedades_Operacoes.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Propriedades e Operações com Time Span\Propriedades_Operacoes\obj\Debug\netcoreapp3.1\Propriedades_Operacoes.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Propriedades e Operações com Time Span\Propriedades_Operacoes\obj\Debug\netcoreapp3.1\Propriedades_Operacoes.dll
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Propriedades e Operações com Time Span\Propriedades_Operacoes\obj\Debug\netcoreapp3.1\Propriedades_Operacoes.pdb
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Propriedades e Operações com Time Span\Propriedades_Operacoes\obj\Debug\netcoreapp3.1\Propriedades_Operacoes.genruntimeconfig.cache
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Propriedades e Operações com Time Span\Propriedades_Operacoes\obj\Debug\netcoreapp3.1\Propriedades_Operacoes.csprojAssemblyReference.cache
