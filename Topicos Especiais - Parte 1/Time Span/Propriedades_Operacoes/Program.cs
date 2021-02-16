@@ -22,6 +22,17 @@ namespace Propriedades_Operacoes
             Console.WriteLine("Ticks:" + D1.Ticks); //TICKS
             Console.WriteLine("Hora:" + D1.TimeOfDay);// HORA DA DATA
             Console.WriteLine("Ano:" + D1.Year); // ANO
+            Console.WriteLine("=============================");
+         
+            
+            Console.WriteLine("FORMATAÇÕES DE DATAS");
+            Console.WriteLine("=============================");
+            Console.WriteLine(D1.ToLongDateString()); // EXIBIR DATA POR EXTENSO
+            Console.WriteLine(D1.ToShortDateString()); // EXIBIR DATA POR ABREVIADA,
+            Console.WriteLine(D1.ToLongTimeString()); // EXIBIR HORA POR EXTENSO
+            Console.WriteLine(D1.ToShortTimeString()); // EXIBIR HORA POR EXTENSO
+            Console.WriteLine(D1.ToString("yyy-MM-dd HH:mm:ss")); // EXIBIR DATA PERSONALIZADA
+
 
 
 
