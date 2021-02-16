@@ -44,7 +44,7 @@ namespace Propriedades_Operacoes
             Console.WriteLine("=============================");
             Console.WriteLine("CALCULOS COM DATAS");
             Console.WriteLine("=============================");
-            TimeSpan T1 = D1.Subtract(D2); // DIFERENÇA ENTRE DATAS
+            TimeSpan T1 = D2.Subtract(D1); // DIFERENÇA ENTRE DATAS
             Console.WriteLine("Diferença entre D1 e D2: " + T1);
 
         }
