@@ -1,0 +1,12 @@
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Date Time\Func_Datas\bin\Debug\netcoreapp3.1\Func_Datas.exe
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Date Time\Func_Datas\bin\Debug\netcoreapp3.1\Func_Datas.deps.json
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Date Time\Func_Datas\bin\Debug\netcoreapp3.1\Func_Datas.runtimeconfig.json
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Date Time\Func_Datas\bin\Debug\netcoreapp3.1\Func_Datas.runtimeconfig.dev.json
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Date Time\Func_Datas\bin\Debug\netcoreapp3.1\Func_Datas.dll
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Date Time\Func_Datas\bin\Debug\netcoreapp3.1\Func_Datas.pdb
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Date Time\Func_Datas\obj\Debug\netcoreapp3.1\Func_Datas.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Date Time\Func_Datas\obj\Debug\netcoreapp3.1\Func_Datas.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Date Time\Func_Datas\obj\Debug\netcoreapp3.1\Func_Datas.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Date Time\Func_Datas\obj\Debug\netcoreapp3.1\Func_Datas.dll
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Date Time\Func_Datas\obj\Debug\netcoreapp3.1\Func_Datas.pdb
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Date Time\Func_Datas\obj\Debug\netcoreapp3.1\Func_Datas.genruntimeconfig.cache
