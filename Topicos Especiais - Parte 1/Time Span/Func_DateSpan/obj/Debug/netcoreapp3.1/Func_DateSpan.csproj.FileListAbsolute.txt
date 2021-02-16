@@ -1,0 +1,12 @@
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Time Span\Func_DateSpan\bin\Debug\netcoreapp3.1\Func_DateSpan.exe
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Time Span\Func_DateSpan\bin\Debug\netcoreapp3.1\Func_DateSpan.deps.json
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Time Span\Func_DateSpan\bin\Debug\netcoreapp3.1\Func_DateSpan.runtimeconfig.json
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Time Span\Func_DateSpan\bin\Debug\netcoreapp3.1\Func_DateSpan.runtimeconfig.dev.json
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Time Span\Func_DateSpan\bin\Debug\netcoreapp3.1\Func_DateSpan.dll
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Time Span\Func_DateSpan\bin\Debug\netcoreapp3.1\Func_DateSpan.pdb
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Time Span\Func_DateSpan\obj\Debug\netcoreapp3.1\Func_DateSpan.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Time Span\Func_DateSpan\obj\Debug\netcoreapp3.1\Func_DateSpan.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Time Span\Func_DateSpan\obj\Debug\netcoreapp3.1\Func_DateSpan.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Time Span\Func_DateSpan\obj\Debug\netcoreapp3.1\Func_DateSpan.dll
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Time Span\Func_DateSpan\obj\Debug\netcoreapp3.1\Func_DateSpan.pdb
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Time Span\Func_DateSpan\obj\Debug\netcoreapp3.1\Func_DateSpan.genruntimeconfig.cache

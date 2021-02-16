@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Func_DateSpan", "Func_DateSpan.csproj", "{588BCE6C-E448-46CE-A260-F504D6BB907F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{588BCE6C-E448-46CE-A260-F504D6BB907F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{588BCE6C-E448-46CE-A260-F504D6BB907F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{588BCE6C-E448-46CE-A260-F504D6BB907F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{588BCE6C-E448-46CE-A260-F504D6BB907F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFDF75AE-B4D3-43C4-8C80-C7A2EA599843}
+	EndGlobalSection
+EndGlobal
