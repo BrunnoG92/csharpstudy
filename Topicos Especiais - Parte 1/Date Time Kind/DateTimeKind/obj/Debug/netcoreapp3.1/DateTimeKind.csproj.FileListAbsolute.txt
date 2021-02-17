@@ -1,0 +1,13 @@
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Date Time Kind\DateTimeKind\bin\Debug\netcoreapp3.1\DateTimeKind.exe
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Date Time Kind\DateTimeKind\bin\Debug\netcoreapp3.1\DateTimeKind.deps.json
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Date Time Kind\DateTimeKind\bin\Debug\netcoreapp3.1\DateTimeKind.runtimeconfig.json
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Date Time Kind\DateTimeKind\bin\Debug\netcoreapp3.1\DateTimeKind.runtimeconfig.dev.json
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Date Time Kind\DateTimeKind\bin\Debug\netcoreapp3.1\DateTimeKind.dll
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Date Time Kind\DateTimeKind\bin\Debug\netcoreapp3.1\DateTimeKind.pdb
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Date Time Kind\DateTimeKind\obj\Debug\netcoreapp3.1\DateTimeKind.csprojAssemblyReference.cache
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Date Time Kind\DateTimeKind\obj\Debug\netcoreapp3.1\DateTimeKind.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Date Time Kind\DateTimeKind\obj\Debug\netcoreapp3.1\DateTimeKind.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Date Time Kind\DateTimeKind\obj\Debug\netcoreapp3.1\DateTimeKind.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Date Time Kind\DateTimeKind\obj\Debug\netcoreapp3.1\DateTimeKind.dll
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Date Time Kind\DateTimeKind\obj\Debug\netcoreapp3.1\DateTimeKind.pdb
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\Date Time Kind\DateTimeKind\obj\Debug\netcoreapp3.1\DateTimeKind.genruntimeconfig.cache

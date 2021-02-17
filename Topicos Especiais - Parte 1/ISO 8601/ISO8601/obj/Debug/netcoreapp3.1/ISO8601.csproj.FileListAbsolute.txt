@@ -1,0 +1,12 @@
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\ISO 8601\ISO8601\bin\Debug\netcoreapp3.1\ISO8601.exe
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\ISO 8601\ISO8601\bin\Debug\netcoreapp3.1\ISO8601.deps.json
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\ISO 8601\ISO8601\bin\Debug\netcoreapp3.1\ISO8601.runtimeconfig.json
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\ISO 8601\ISO8601\bin\Debug\netcoreapp3.1\ISO8601.runtimeconfig.dev.json
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\ISO 8601\ISO8601\bin\Debug\netcoreapp3.1\ISO8601.dll
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\ISO 8601\ISO8601\bin\Debug\netcoreapp3.1\ISO8601.pdb
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\ISO 8601\ISO8601\obj\Debug\netcoreapp3.1\ISO8601.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\ISO 8601\ISO8601\obj\Debug\netcoreapp3.1\ISO8601.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\ISO 8601\ISO8601\obj\Debug\netcoreapp3.1\ISO8601.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\ISO 8601\ISO8601\obj\Debug\netcoreapp3.1\ISO8601.dll
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\ISO 8601\ISO8601\obj\Debug\netcoreapp3.1\ISO8601.pdb
+C:\Users\Bruno\Desktop\C# estudos\Topicos Especiais - Parte 1\ISO 8601\ISO8601\obj\Debug\netcoreapp3.1\ISO8601.genruntimeconfig.cache
