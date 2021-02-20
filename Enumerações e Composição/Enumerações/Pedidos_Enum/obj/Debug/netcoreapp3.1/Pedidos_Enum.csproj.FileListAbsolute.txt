@@ -10,3 +10,4 @@ C:\Users\Bruno\Desktop\C# estudos\Enumerações e Composição\Enumerações\Ped
 C:\Users\Bruno\Desktop\C# estudos\Enumerações e Composição\Enumerações\Pedidos_Enum\obj\Debug\netcoreapp3.1\Pedidos_Enum.dll
 C:\Users\Bruno\Desktop\C# estudos\Enumerações e Composição\Enumerações\Pedidos_Enum\obj\Debug\netcoreapp3.1\Pedidos_Enum.pdb
 C:\Users\Bruno\Desktop\C# estudos\Enumerações e Composição\Enumerações\Pedidos_Enum\obj\Debug\netcoreapp3.1\Pedidos_Enum.genruntimeconfig.cache
+C:\Users\Bruno\Desktop\C# estudos\Enumerações e Composição\Enumerações\Pedidos_Enum\obj\Debug\netcoreapp3.1\Pedidos_Enum.csprojAssemblyReference.cache
