@@ -8,7 +8,7 @@ namespace Contrato_Func.Entities
         public string Name { get; set; }
         public WorkerLevel Level { get; set; }
         public double BaseSalary { get; set;}
-        public Department Department { get; set; } // Composição. Propriedade do tipo departamento
+        public Department Department { get; set; } // Composição. Propriedade do tipo departamento , associação entre duas classes diferentes
         public List<HourContract> Contracts { get; set; } = new List<HourContract>(); // Lista de contratos. Um trabalho tem vários contratos.
 
         public Worker ()
@@ -42,8 +42,10 @@ namespace Contrato_Func.Entities
                 {
                     sum += contract.TotalValue();
                 }
-                return sum;
+                
             }
+            return sum;
         }
+
     }
 }

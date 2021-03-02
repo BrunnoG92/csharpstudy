@@ -1,0 +1,13 @@
+C:\Users\Bruno\Desktop\C# estudos\Enumerações e Composição\Exercicio Composição e Enumeração\Lista_Pedidos\bin\Debug\netcoreapp3.1\Lista_Pedidos.exe
+C:\Users\Bruno\Desktop\C# estudos\Enumerações e Composição\Exercicio Composição e Enumeração\Lista_Pedidos\bin\Debug\netcoreapp3.1\Lista_Pedidos.deps.json
+C:\Users\Bruno\Desktop\C# estudos\Enumerações e Composição\Exercicio Composição e Enumeração\Lista_Pedidos\bin\Debug\netcoreapp3.1\Lista_Pedidos.runtimeconfig.json
+C:\Users\Bruno\Desktop\C# estudos\Enumerações e Composição\Exercicio Composição e Enumeração\Lista_Pedidos\bin\Debug\netcoreapp3.1\Lista_Pedidos.runtimeconfig.dev.json
+C:\Users\Bruno\Desktop\C# estudos\Enumerações e Composição\Exercicio Composição e Enumeração\Lista_Pedidos\bin\Debug\netcoreapp3.1\Lista_Pedidos.dll
+C:\Users\Bruno\Desktop\C# estudos\Enumerações e Composição\Exercicio Composição e Enumeração\Lista_Pedidos\bin\Debug\netcoreapp3.1\Lista_Pedidos.pdb
+C:\Users\Bruno\Desktop\C# estudos\Enumerações e Composição\Exercicio Composição e Enumeração\Lista_Pedidos\obj\Debug\netcoreapp3.1\Lista_Pedidos.csprojAssemblyReference.cache
+C:\Users\Bruno\Desktop\C# estudos\Enumerações e Composição\Exercicio Composição e Enumeração\Lista_Pedidos\obj\Debug\netcoreapp3.1\Lista_Pedidos.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\C# estudos\Enumerações e Composição\Exercicio Composição e Enumeração\Lista_Pedidos\obj\Debug\netcoreapp3.1\Lista_Pedidos.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\C# estudos\Enumerações e Composição\Exercicio Composição e Enumeração\Lista_Pedidos\obj\Debug\netcoreapp3.1\Lista_Pedidos.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\C# estudos\Enumerações e Composição\Exercicio Composição e Enumeração\Lista_Pedidos\obj\Debug\netcoreapp3.1\Lista_Pedidos.dll
+C:\Users\Bruno\Desktop\C# estudos\Enumerações e Composição\Exercicio Composição e Enumeração\Lista_Pedidos\obj\Debug\netcoreapp3.1\Lista_Pedidos.pdb
+C:\Users\Bruno\Desktop\C# estudos\Enumerações e Composição\Exercicio Composição e Enumeração\Lista_Pedidos\obj\Debug\netcoreapp3.1\Lista_Pedidos.genruntimeconfig.cache
