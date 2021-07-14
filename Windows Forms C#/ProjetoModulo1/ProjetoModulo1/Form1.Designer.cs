@@ -104,7 +104,7 @@ namespace ProjetoModulo1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(515, 228);
+            this.ClientSize = new System.Drawing.Size(512, 210);
             this.Controls.Add(this.lblListaNomes);
             this.Controls.Add(this.lsbListaNomes);
             this.Controls.Add(this.txtNome);
