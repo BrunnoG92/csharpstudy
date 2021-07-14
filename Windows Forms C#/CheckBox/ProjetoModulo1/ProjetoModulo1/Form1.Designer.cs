@@ -33,8 +33,9 @@ namespace ProjetoModulo1
             this.btnBotao2 = new System.Windows.Forms.Button();
             this.lblNome = new System.Windows.Forms.Label();
             this.txtNome = new System.Windows.Forms.TextBox();
-            this.lsbListaNomes = new System.Windows.Forms.ListBox();
-            this.lblListaNomes = new System.Windows.Forms.Label();
+            this.checkBox1 = new System.Windows.Forms.CheckBox();
+            this.checkBox2 = new System.Windows.Forms.CheckBox();
+            this.checkBox3 = new System.Windows.Forms.CheckBox();
             this.SuspendLayout();
             // 
             // btnBotao1
@@ -78,35 +79,46 @@ namespace ProjetoModulo1
             this.txtNome.Name = "txtNome";
             this.txtNome.Size = new System.Drawing.Size(238, 23);
             this.txtNome.TabIndex = 3;
-            this.txtNome.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtNome_KeyDown);
             this.txtNome.Validating += new System.ComponentModel.CancelEventHandler(this.txtNome_Validating);
             // 
-            // lsbListaNomes
+            // checkBox1
             // 
-            this.lsbListaNomes.FormattingEnabled = true;
-            this.lsbListaNomes.ItemHeight = 15;
-            this.lsbListaNomes.Location = new System.Drawing.Point(12, 106);
-            this.lsbListaNomes.Name = "lsbListaNomes";
-            this.lsbListaNomes.Size = new System.Drawing.Size(238, 94);
-            this.lsbListaNomes.TabIndex = 4;
-            this.lsbListaNomes.DoubleClick += new System.EventHandler(this.lsbListaNomes_DoubleClick);
+            this.checkBox1.AutoSize = true;
+            this.checkBox1.Location = new System.Drawing.Point(3, 82);
+            this.checkBox1.Name = "checkBox1";
+            this.checkBox1.Size = new System.Drawing.Size(83, 19);
+            this.checkBox1.TabIndex = 4;
+            this.checkBox1.Text = "checkBox1";
+            this.checkBox1.UseVisualStyleBackColor = true;
             // 
-            // lblListaNomes
+            // checkBox2
             // 
-            this.lblListaNomes.AutoSize = true;
-            this.lblListaNomes.Location = new System.Drawing.Point(13, 75);
-            this.lblListaNomes.Name = "lblListaNomes";
-            this.lblListaNomes.Size = new System.Drawing.Size(88, 15);
-            this.lblListaNomes.TabIndex = 5;
-            this.lblListaNomes.Text = "Lista de Nomes";
+            this.checkBox2.AutoSize = true;
+            this.checkBox2.Location = new System.Drawing.Point(3, 108);
+            this.checkBox2.Name = "checkBox2";
+            this.checkBox2.Size = new System.Drawing.Size(83, 19);
+            this.checkBox2.TabIndex = 5;
+            this.checkBox2.Text = "checkBox2";
+            this.checkBox2.UseVisualStyleBackColor = true;
+            // 
+            // checkBox3
+            // 
+            this.checkBox3.AutoSize = true;
+            this.checkBox3.Location = new System.Drawing.Point(3, 134);
+            this.checkBox3.Name = "checkBox3";
+            this.checkBox3.Size = new System.Drawing.Size(83, 19);
+            this.checkBox3.TabIndex = 6;
+            this.checkBox3.Text = "checkBox3";
+            this.checkBox3.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(512, 210);
-            this.Controls.Add(this.lblListaNomes);
-            this.Controls.Add(this.lsbListaNomes);
+            this.Controls.Add(this.checkBox3);
+            this.Controls.Add(this.checkBox2);
+            this.Controls.Add(this.checkBox1);
             this.Controls.Add(this.txtNome);
             this.Controls.Add(this.lblNome);
             this.Controls.Add(this.btnBotao2);
@@ -124,8 +136,9 @@ namespace ProjetoModulo1
         private System.Windows.Forms.Button btnBotao2;
         private System.Windows.Forms.Label lblNome;
         private System.Windows.Forms.TextBox txtNome;
-        private System.Windows.Forms.ListBox lsbListaNomes;
-        private System.Windows.Forms.Label lblListaNomes;
+        private System.Windows.Forms.CheckBox checkBox1;
+        private System.Windows.Forms.CheckBox checkBox2;
+        private System.Windows.Forms.CheckBox checkBox3;
     }
 }
 

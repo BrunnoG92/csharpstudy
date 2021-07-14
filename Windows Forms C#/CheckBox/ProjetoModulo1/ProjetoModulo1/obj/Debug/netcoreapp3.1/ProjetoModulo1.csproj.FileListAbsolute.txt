@@ -13,3 +13,18 @@ C:\Users\Bruno\Desktop\Windows Forms C#\ProjetoModulo1\ProjetoModulo1\obj\Debug\
 C:\Users\Bruno\Desktop\Windows Forms C#\ProjetoModulo1\ProjetoModulo1\obj\Debug\netcoreapp3.1\ProjetoModulo1.dll
 C:\Users\Bruno\Desktop\Windows Forms C#\ProjetoModulo1\ProjetoModulo1\obj\Debug\netcoreapp3.1\ProjetoModulo1.pdb
 C:\Users\Bruno\Desktop\Windows Forms C#\ProjetoModulo1\ProjetoModulo1\obj\Debug\netcoreapp3.1\ProjetoModulo1.genruntimeconfig.cache
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\CheckBox\ProjetoModulo1\ProjetoModulo1\bin\Debug\netcoreapp3.1\ProjetoModulo1.exe
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\CheckBox\ProjetoModulo1\ProjetoModulo1\bin\Debug\netcoreapp3.1\ProjetoModulo1.deps.json
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\CheckBox\ProjetoModulo1\ProjetoModulo1\bin\Debug\netcoreapp3.1\ProjetoModulo1.runtimeconfig.json
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\CheckBox\ProjetoModulo1\ProjetoModulo1\bin\Debug\netcoreapp3.1\ProjetoModulo1.runtimeconfig.dev.json
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\CheckBox\ProjetoModulo1\ProjetoModulo1\bin\Debug\netcoreapp3.1\ProjetoModulo1.dll
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\CheckBox\ProjetoModulo1\ProjetoModulo1\bin\Debug\netcoreapp3.1\ProjetoModulo1.pdb
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\CheckBox\ProjetoModulo1\ProjetoModulo1\obj\Debug\netcoreapp3.1\ProjetoModulo1.csproj.AssemblyReference.cache
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\CheckBox\ProjetoModulo1\ProjetoModulo1\obj\Debug\netcoreapp3.1\ProjetoModulo1.Form1.resources
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\CheckBox\ProjetoModulo1\ProjetoModulo1\obj\Debug\netcoreapp3.1\ProjetoModulo1.csproj.GenerateResource.cache
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\CheckBox\ProjetoModulo1\ProjetoModulo1\obj\Debug\netcoreapp3.1\ProjetoModulo1.AssemblyInfoInputs.cache
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\CheckBox\ProjetoModulo1\ProjetoModulo1\obj\Debug\netcoreapp3.1\ProjetoModulo1.AssemblyInfo.cs
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\CheckBox\ProjetoModulo1\ProjetoModulo1\obj\Debug\netcoreapp3.1\ProjetoModulo1.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\CheckBox\ProjetoModulo1\ProjetoModulo1\obj\Debug\netcoreapp3.1\ProjetoModulo1.dll
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\CheckBox\ProjetoModulo1\ProjetoModulo1\obj\Debug\netcoreapp3.1\ProjetoModulo1.pdb
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\CheckBox\ProjetoModulo1\ProjetoModulo1\obj\Debug\netcoreapp3.1\ProjetoModulo1.genruntimeconfig.cache
