@@ -29,44 +29,23 @@ namespace CheckBox
         /// </summary>
         private void InitializeComponent()
         {
-            this.checkBox1 = new System.Windows.Forms.CheckBox();
-            this.checkBox2 = new System.Windows.Forms.CheckBox();
-            this.checkBox3 = new System.Windows.Forms.CheckBox();
+            this.chk_Exemplo = new System.Windows.Forms.CheckBox();
             this.btn1_cadastro = new System.Windows.Forms.Button();
             this.btn2_Limpar = new System.Windows.Forms.Button();
             this.txtb_CaixaNome = new System.Windows.Forms.TextBox();
             this.lbl1_Nome = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // checkBox1
+            // chk_Exemplo
             // 
-            this.checkBox1.AutoSize = true;
-            this.checkBox1.Location = new System.Drawing.Point(11, 111);
-            this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(83, 19);
-            this.checkBox1.TabIndex = 0;
-            this.checkBox1.Text = "checkBox1";
-            this.checkBox1.UseVisualStyleBackColor = true;
-            // 
-            // checkBox2
-            // 
-            this.checkBox2.AutoSize = true;
-            this.checkBox2.Location = new System.Drawing.Point(11, 136);
-            this.checkBox2.Name = "checkBox2";
-            this.checkBox2.Size = new System.Drawing.Size(83, 19);
-            this.checkBox2.TabIndex = 1;
-            this.checkBox2.Text = "checkBox2";
-            this.checkBox2.UseVisualStyleBackColor = true;
-            // 
-            // checkBox3
-            // 
-            this.checkBox3.AutoSize = true;
-            this.checkBox3.Location = new System.Drawing.Point(11, 161);
-            this.checkBox3.Name = "checkBox3";
-            this.checkBox3.Size = new System.Drawing.Size(83, 19);
-            this.checkBox3.TabIndex = 2;
-            this.checkBox3.Text = "checkBox3";
-            this.checkBox3.UseVisualStyleBackColor = true;
+            this.chk_Exemplo.AutoSize = true;
+            this.chk_Exemplo.Location = new System.Drawing.Point(13, 65);
+            this.chk_Exemplo.Name = "chk_Exemplo";
+            this.chk_Exemplo.Size = new System.Drawing.Size(46, 19);
+            this.chk_Exemplo.TabIndex = 0;
+            this.chk_Exemplo.Text = "Sim";
+            this.chk_Exemplo.UseVisualStyleBackColor = true;
+            this.chk_Exemplo.CheckStateChanged += new System.EventHandler(this.chk_Exemplo_CheckStateChanged);
             // 
             // btn1_cadastro
             // 
@@ -86,6 +65,7 @@ namespace CheckBox
             this.btn2_Limpar.TabIndex = 4;
             this.btn2_Limpar.Text = "Limpar";
             this.btn2_Limpar.UseVisualStyleBackColor = true;
+            this.btn2_Limpar.Click += new System.EventHandler(this.btn2_Limpar_Click);
             // 
             // txtb_CaixaNome
             // 
@@ -112,9 +92,7 @@ namespace CheckBox
             this.Controls.Add(this.txtb_CaixaNome);
             this.Controls.Add(this.btn2_Limpar);
             this.Controls.Add(this.btn1_cadastro);
-            this.Controls.Add(this.checkBox3);
-            this.Controls.Add(this.checkBox2);
-            this.Controls.Add(this.checkBox1);
+            this.Controls.Add(this.chk_Exemplo);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
@@ -124,9 +102,7 @@ namespace CheckBox
 
         #endregion
 
-        private System.Windows.Forms.CheckBox checkBox1;
-        private System.Windows.Forms.CheckBox checkBox2;
-        private System.Windows.Forms.CheckBox checkBox3;
+        private System.Windows.Forms.CheckBox chk_Exemplo;
         private System.Windows.Forms.Button btn1_cadastro;
         private System.Windows.Forms.Button btn2_Limpar;
         private System.Windows.Forms.TextBox txtb_CaixaNome;

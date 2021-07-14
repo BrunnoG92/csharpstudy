@@ -19,7 +19,26 @@ namespace CheckBox
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            if (chk_Exemplo.Checked)
+            {
+                MessageBox.Show("Marcado");
+            }
+            else
+            {
+                MessageBox.Show("Desmarcado");
+            }
+              
         }
+        private void btn2_Limpar_Click(object sender, EventArgs e)
+        {
+            chk_Exemplo.CheckState = CheckState.Unchecked;
+        }
+
+        private void chk_Exemplo_CheckStateChanged(object sender, EventArgs e)
+        {
+            MessageBox.Show("Chamou o evento");
+        }
+
+        
     }
 }
