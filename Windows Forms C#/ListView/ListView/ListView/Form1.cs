@@ -12,6 +12,7 @@ namespace ListView
 {
     public partial class Form1 : Form
     {
+        private int iSelecionado = -1;
         public Form1()
         {
             InitializeComponent();
@@ -40,7 +41,17 @@ namespace ListView
             }
         }
         private void Btn1_Cadastrar_Click(object sender, EventArgs e)
-        {
+        {   
+            if (iSelecionado > -1) //ha item selecionado
+            {
+                lvl_ListaNomes.Items[iSelecionado].SubItems[0].Text = TxtB_CaixaNome.Text.Trim();
+                lvl_ListaNomes.Items[iSelecionado].SubItems[1].Text = TxtB_CaixaIdade.Text.Trim();
+                iSelecionado = -1;
+                Btn1_Cadastrar.Text = "Cadastrar";
+                TxtB_CaixaNome.Text = String.Empty;
+                TxtB_CaixaIdade.Text = String.Empty;
+                return;
+            }
             ListViewItem ItmX = lvl_ListaNomes.Items.Add(TxtB_CaixaNome.Text.Trim()); // criada a lista ItmX
             ItmX.SubItems.Add(new ListViewItem.ListViewSubItem(null, TxtB_CaixaIdade.Text.Trim())); //Instanciada a lsita ItmX e a sublista
             TxtB_CaixaNome.Text = String.Empty;
@@ -56,7 +67,31 @@ namespace ListView
 
         }
 
-        
-        
+        private void Btn3_BotaoRemover_Click(object sender, EventArgs e)
+        {   
+            if (lvl_ListaNomes.SelectedIndices.Count < 1)
+            {
+                MessageBox.Show("Selecione algum item para remover");
+                    return;
+            }
+            int iPosicao = lvl_ListaNomes.SelectedIndices[0];
+            lvl_ListaNomes.Items.RemoveAt(iPosicao);
+        }
+
+        private void lvl_ListaNomes_DoubleClick(object sender, EventArgs e)
+        {
+            if (lvl_ListaNomes.SelectedIndices.Count < 1)
+            {
+                return;
+            }
+            else
+            {
+                iSelecionado = lvl_ListaNomes.SelectedIndices[0];
+                TxtB_CaixaNome.Text = lvl_ListaNomes.Items[iSelecionado].SubItems[0].Text;
+                TxtB_CaixaIdade.Text = lvl_ListaNomes.Items[iSelecionado].SubItems[1].Text;
+                Btn1_Cadastrar.Text = "Editar";
+
+            }
+        }
     }
 }

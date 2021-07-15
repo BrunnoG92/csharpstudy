@@ -13,3 +13,4 @@ C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\ListView\ListView\ListView\
 C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\ListView\ListView\ListView\obj\Debug\netcoreapp3.1\ListView.pdb
 C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\ListView\ListView\ListView\obj\Debug\netcoreapp3.1\ListView.genruntimeconfig.cache
 C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\ListView\ListView\ListView\obj\Debug\netcoreapp3.1\ListView.csproj.AssemblyReference.cache
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\ListView\ListView\ListView\obj\Debug\netcoreapp3.1\ListView.Properties.Resources.resources

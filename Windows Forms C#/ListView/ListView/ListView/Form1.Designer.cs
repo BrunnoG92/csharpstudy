@@ -36,6 +36,7 @@ namespace ListView
             this.lvl_ListaNomes = new System.Windows.Forms.ListView();
             this.TxtB_CaixaIdade = new System.Windows.Forms.TextBox();
             this.Lbl_Idade = new System.Windows.Forms.Label();
+            this.Btn3_BotaoRemover = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // Btn1_Cadastrar
@@ -90,6 +91,7 @@ namespace ListView
             this.lvl_ListaNomes.TabIndex = 4;
             this.lvl_ListaNomes.UseCompatibleStateImageBehavior = false;
             this.lvl_ListaNomes.View = System.Windows.Forms.View.Details;
+            this.lvl_ListaNomes.DoubleClick += new System.EventHandler(this.lvl_ListaNomes_DoubleClick);
             // 
             // TxtB_CaixaIdade
             // 
@@ -97,7 +99,7 @@ namespace ListView
             this.TxtB_CaixaIdade.Location = new System.Drawing.Point(327, 15);
             this.TxtB_CaixaIdade.Name = "TxtB_CaixaIdade";
             this.TxtB_CaixaIdade.Size = new System.Drawing.Size(56, 23);
-            this.TxtB_CaixaIdade.TabIndex = 6;   
+            this.TxtB_CaixaIdade.TabIndex = 6;
             this.TxtB_CaixaIdade.Validating += new System.ComponentModel.CancelEventHandler(this.TxtB_CaixaIdade_Validating);
             // 
             // Lbl_Idade
@@ -109,11 +111,22 @@ namespace ListView
             this.Lbl_Idade.TabIndex = 5;
             this.Lbl_Idade.Text = "Idade:";
             // 
+            // Btn3_BotaoRemover
+            // 
+            this.Btn3_BotaoRemover.Image = global::ListView.Properties.Resources.icone_remover;
+            this.Btn3_BotaoRemover.Location = new System.Drawing.Point(551, 231);
+            this.Btn3_BotaoRemover.Name = "Btn3_BotaoRemover";
+            this.Btn3_BotaoRemover.Size = new System.Drawing.Size(29, 29);
+            this.Btn3_BotaoRemover.TabIndex = 7;
+            this.Btn3_BotaoRemover.UseVisualStyleBackColor = true;
+            this.Btn3_BotaoRemover.Click += new System.EventHandler(this.Btn3_BotaoRemover_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(601, 272);
+            this.Controls.Add(this.Btn3_BotaoRemover);
             this.Controls.Add(this.TxtB_CaixaIdade);
             this.Controls.Add(this.Lbl_Idade);
             this.Controls.Add(this.lvl_ListaNomes);
@@ -137,6 +150,7 @@ namespace ListView
         private System.Windows.Forms.ListView lvl_ListaNomes;
         private System.Windows.Forms.TextBox TxtB_CaixaIdade;
         private System.Windows.Forms.Label Lbl_Idade;
+        private System.Windows.Forms.Button Btn3_BotaoRemover;
     }
 }
 
