@@ -33,7 +33,10 @@ namespace RadioButton
             this.Btn2_Limpar = new System.Windows.Forms.Button();
             this.TxtB_Nome = new System.Windows.Forms.TextBox();
             this.Lbl1_Nome = new System.Windows.Forms.Label();
-            this.radioButton1 = new System.Windows.Forms.RadioButton();
+            this.rdb_Sim = new System.Windows.Forms.RadioButton();
+            this.Rdb2_Nao = new System.Windows.Forms.RadioButton();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
             // Btn1_Cadastrar
@@ -53,6 +56,7 @@ namespace RadioButton
             this.Btn2_Limpar.TabIndex = 1;
             this.Btn2_Limpar.Text = "Limpar";
             this.Btn2_Limpar.UseVisualStyleBackColor = true;
+            this.Btn2_Limpar.Click += new System.EventHandler(this.Btn2_Limpar_Click);
             // 
             // TxtB_Nome
             // 
@@ -70,29 +74,55 @@ namespace RadioButton
             this.Lbl1_Nome.TabIndex = 3;
             this.Lbl1_Nome.Text = "Nome:";
             // 
-            // radioButton1
+            // rdb_Sim
             // 
-            this.radioButton1.AutoSize = true;
-            this.radioButton1.Location = new System.Drawing.Point(13, 99);
-            this.radioButton1.Name = "radioButton1";
-            this.radioButton1.Size = new System.Drawing.Size(94, 19);
-            this.radioButton1.TabIndex = 4;
-            this.radioButton1.TabStop = true;
-            this.radioButton1.Text = "radioButton1";
-            this.radioButton1.UseVisualStyleBackColor = true;
+            this.rdb_Sim.AutoSize = true;
+            this.rdb_Sim.Location = new System.Drawing.Point(6, 22);
+            this.rdb_Sim.Name = "rdb_Sim";
+            this.rdb_Sim.Size = new System.Drawing.Size(45, 19);
+            this.rdb_Sim.TabIndex = 4;
+            this.rdb_Sim.TabStop = true;
+            this.rdb_Sim.Text = "Sim";
+            this.rdb_Sim.UseVisualStyleBackColor = true;
+            this.rdb_Sim.CheckedChanged += new System.EventHandler(this.rdb__CheckedChanged);
+            // 
+            // Rdb2_Nao
+            // 
+            this.Rdb2_Nao.AutoSize = true;
+            this.Rdb2_Nao.Location = new System.Drawing.Point(6, 47);
+            this.Rdb2_Nao.Name = "Rdb2_Nao";
+            this.Rdb2_Nao.Size = new System.Drawing.Size(47, 19);
+            this.Rdb2_Nao.TabIndex = 5;
+            this.Rdb2_Nao.TabStop = true;
+            this.Rdb2_Nao.Text = "Não";
+            this.Rdb2_Nao.UseVisualStyleBackColor = true;
+           
+            // 
+            // groupBox1
+            // 
+            this.groupBox1.Controls.Add(this.Rdb2_Nao);
+            this.groupBox1.Controls.Add(this.rdb_Sim);
+            this.groupBox1.Location = new System.Drawing.Point(12, 91);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Size = new System.Drawing.Size(134, 92);
+            this.groupBox1.TabIndex = 6;
+            this.groupBox1.TabStop = false;
+            this.groupBox1.Text = "groupBox1";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(423, 241);
-            this.Controls.Add(this.radioButton1);
+            this.ClientSize = new System.Drawing.Size(465, 242);
+            this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.Lbl1_Nome);
             this.Controls.Add(this.TxtB_Nome);
             this.Controls.Add(this.Btn2_Limpar);
             this.Controls.Add(this.Btn1_Cadastrar);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.groupBox1.ResumeLayout(false);
+            this.groupBox1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -104,7 +134,9 @@ namespace RadioButton
         private System.Windows.Forms.Button Btn2_Limpar;
         private System.Windows.Forms.TextBox TxtB_Nome;
         private System.Windows.Forms.Label Lbl1_Nome;
-        private System.Windows.Forms.RadioButton radioButton1;
+        private System.Windows.Forms.RadioButton rdb_Sim;
+        private System.Windows.Forms.RadioButton Rdb2_Nao;
+        private System.Windows.Forms.GroupBox groupBox1;
     }
 }
 
