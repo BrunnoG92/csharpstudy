@@ -15,14 +15,19 @@ namespace Frm_CadPessoas
             InitializeComponent();
         }
 
-        private void Btn_ChamaPessoas_Click(object sender, EventArgs e)
+        private void sairToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void abrirCardPessoasToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Frm_CadPessoas Form = new Frm_CadPessoas();
             Form.MdiParent = this;
             Form.Show();
         }
 
-        private void Frm_ChamaVeiculos_Click(object sender, EventArgs e)
+        private void abrirCardVeiculosToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Frm_CadVeiculos Form = new Frm_CadVeiculos();
             Form.MdiParent = this;

@@ -31,3 +31,4 @@ C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Manipulação de Formulári
 C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Manipulação de Formulário\MDI\Frm_CadPessoas\obj\Debug\netcoreapp3.1\Frm_CadPessoas.dll
 C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Manipulação de Formulário\MDI\Frm_CadPessoas\obj\Debug\netcoreapp3.1\Frm_CadPessoas.pdb
 C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Manipulação de Formulário\MDI\Frm_CadPessoas\obj\Debug\netcoreapp3.1\Frm_CadPessoas.genruntimeconfig.cache
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Manipulação de Formulário\MDI\Frm_CadPessoas\obj\Debug\netcoreapp3.1\Frm_CadPessoas.Properties.Resources.resources
