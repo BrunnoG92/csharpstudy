@@ -1,0 +1,16 @@
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Manipulação de Formulário\Manipulação Forms\Frm_CadPessoas\bin\Debug\netcoreapp3.1\Frm_CadPessoas.exe
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Manipulação de Formulário\Manipulação Forms\Frm_CadPessoas\bin\Debug\netcoreapp3.1\Frm_CadPessoas.deps.json
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Manipulação de Formulário\Manipulação Forms\Frm_CadPessoas\bin\Debug\netcoreapp3.1\Frm_CadPessoas.runtimeconfig.json
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Manipulação de Formulário\Manipulação Forms\Frm_CadPessoas\bin\Debug\netcoreapp3.1\Frm_CadPessoas.runtimeconfig.dev.json
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Manipulação de Formulário\Manipulação Forms\Frm_CadPessoas\bin\Debug\netcoreapp3.1\Frm_CadPessoas.dll
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Manipulação de Formulário\Manipulação Forms\Frm_CadPessoas\bin\Debug\netcoreapp3.1\Frm_CadPessoas.pdb
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Manipulação de Formulário\Manipulação Forms\Frm_CadPessoas\obj\Debug\netcoreapp3.1\Frm_CadPessoas.Frm_CadPessoas.resources
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Manipulação de Formulário\Manipulação Forms\Frm_CadPessoas\obj\Debug\netcoreapp3.1\Frm_CadPessoas.csproj.GenerateResource.cache
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Manipulação de Formulário\Manipulação Forms\Frm_CadPessoas\obj\Debug\netcoreapp3.1\Frm_CadPessoas.AssemblyInfoInputs.cache
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Manipulação de Formulário\Manipulação Forms\Frm_CadPessoas\obj\Debug\netcoreapp3.1\Frm_CadPessoas.AssemblyInfo.cs
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Manipulação de Formulário\Manipulação Forms\Frm_CadPessoas\obj\Debug\netcoreapp3.1\Frm_CadPessoas.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Manipulação de Formulário\Manipulação Forms\Frm_CadPessoas\obj\Debug\netcoreapp3.1\Frm_CadPessoas.dll
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Manipulação de Formulário\Manipulação Forms\Frm_CadPessoas\obj\Debug\netcoreapp3.1\Frm_CadPessoas.pdb
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Manipulação de Formulário\Manipulação Forms\Frm_CadPessoas\obj\Debug\netcoreapp3.1\Frm_CadPessoas.genruntimeconfig.cache
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Manipulação de Formulário\Manipulação Forms\Frm_CadPessoas\obj\Debug\netcoreapp3.1\Frm_CadPessoas.csproj.AssemblyReference.cache
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Manipulação de Formulário\Manipulação Forms\Frm_CadPessoas\obj\Debug\netcoreapp3.1\Frm_CadPessoas.Frm_CadVeiculos.resources
