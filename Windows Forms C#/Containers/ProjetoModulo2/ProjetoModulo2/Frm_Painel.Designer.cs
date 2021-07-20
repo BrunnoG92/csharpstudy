@@ -51,7 +51,7 @@ namespace ProjetoModulo2
             // 
             this.textBox1.Location = new System.Drawing.Point(56, 20);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 23);
+            this.textBox1.Size = new System.Drawing.Size(780, 23);
             this.textBox1.TabIndex = 1;
             // 
             // label1
@@ -77,7 +77,7 @@ namespace ProjetoModulo2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(917, 569);
+            this.ClientSize = new System.Drawing.Size(919, 571);
             this.Controls.Add(this.Pnl_Imagem);
             this.Controls.Add(this.panel1);
             this.Name = "Frm_Painel";
