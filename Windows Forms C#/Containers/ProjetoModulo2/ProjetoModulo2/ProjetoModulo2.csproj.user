@@ -7,6 +7,9 @@
     <Compile Update="FrmGroupBox.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="FrmSplitContainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Frm_Painel.cs">
       <SubType>Form</SubType>
     </Compile>

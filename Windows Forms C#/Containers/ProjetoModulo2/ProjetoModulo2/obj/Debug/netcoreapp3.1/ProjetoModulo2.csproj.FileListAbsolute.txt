@@ -5,7 +5,6 @@ C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Containers\ProjetoModulo2\P
 C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Containers\ProjetoModulo2\ProjetoModulo2\bin\Debug\netcoreapp3.1\ProjetoModulo2.dll
 C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Containers\ProjetoModulo2\ProjetoModulo2\bin\Debug\netcoreapp3.1\ProjetoModulo2.pdb
 C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Containers\ProjetoModulo2\ProjetoModulo2\obj\Debug\netcoreapp3.1\ProjetoModulo2.csproj.AssemblyReference.cache
-C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Containers\ProjetoModulo2\ProjetoModulo2\obj\Debug\netcoreapp3.1\ProjetoModulo2.Form1.resources
 C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Containers\ProjetoModulo2\ProjetoModulo2\obj\Debug\netcoreapp3.1\ProjetoModulo2.csproj.GenerateResource.cache
 C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Containers\ProjetoModulo2\ProjetoModulo2\obj\Debug\netcoreapp3.1\ProjetoModulo2.AssemblyInfoInputs.cache
 C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Containers\ProjetoModulo2\ProjetoModulo2\obj\Debug\netcoreapp3.1\ProjetoModulo2.AssemblyInfo.cs
@@ -13,3 +12,8 @@ C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Containers\ProjetoModulo2\P
 C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Containers\ProjetoModulo2\ProjetoModulo2\obj\Debug\netcoreapp3.1\ProjetoModulo2.dll
 C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Containers\ProjetoModulo2\ProjetoModulo2\obj\Debug\netcoreapp3.1\ProjetoModulo2.pdb
 C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Containers\ProjetoModulo2\ProjetoModulo2\obj\Debug\netcoreapp3.1\ProjetoModulo2.genruntimeconfig.cache
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Containers\ProjetoModulo2\ProjetoModulo2\obj\Debug\netcoreapp3.1\ProjetoModulo2.FrmFlowLayoutPanel.resources
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Containers\ProjetoModulo2\ProjetoModulo2\obj\Debug\netcoreapp3.1\ProjetoModulo2.FrmGroupBox.resources
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Containers\ProjetoModulo2\ProjetoModulo2\obj\Debug\netcoreapp3.1\ProjetoModulo2.FrmSplitContainer.resources
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Containers\ProjetoModulo2\ProjetoModulo2\obj\Debug\netcoreapp3.1\ProjetoModulo2.Frm_Painel.resources
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Containers\ProjetoModulo2\ProjetoModulo2\obj\Debug\netcoreapp3.1\ProjetoModulo2.Properties.Resources.resources
