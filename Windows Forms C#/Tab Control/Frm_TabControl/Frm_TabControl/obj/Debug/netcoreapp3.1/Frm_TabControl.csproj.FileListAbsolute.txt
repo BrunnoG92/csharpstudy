@@ -1,0 +1,17 @@
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Tab Control\Frm_TabControl\Frm_TabControl\bin\Debug\netcoreapp3.1\Frm_TabControl.exe
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Tab Control\Frm_TabControl\Frm_TabControl\bin\Debug\netcoreapp3.1\Frm_TabControl.deps.json
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Tab Control\Frm_TabControl\Frm_TabControl\bin\Debug\netcoreapp3.1\Frm_TabControl.runtimeconfig.json
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Tab Control\Frm_TabControl\Frm_TabControl\bin\Debug\netcoreapp3.1\Frm_TabControl.runtimeconfig.dev.json
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Tab Control\Frm_TabControl\Frm_TabControl\bin\Debug\netcoreapp3.1\Frm_TabControl.dll
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Tab Control\Frm_TabControl\Frm_TabControl\bin\Debug\netcoreapp3.1\Frm_TabControl.pdb
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Tab Control\Frm_TabControl\Frm_TabControl\bin\Debug\netcoreapp3.1\MetroSet UI.dll
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Tab Control\Frm_TabControl\Frm_TabControl\obj\Debug\netcoreapp3.1\Frm_TabControl.csproj.AssemblyReference.cache
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Tab Control\Frm_TabControl\Frm_TabControl\obj\Debug\netcoreapp3.1\Frm_TabControl.Form1.resources
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Tab Control\Frm_TabControl\Frm_TabControl\obj\Debug\netcoreapp3.1\Frm_TabControl.csproj.GenerateResource.cache
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Tab Control\Frm_TabControl\Frm_TabControl\obj\Debug\netcoreapp3.1\Frm_TabControl.AssemblyInfoInputs.cache
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Tab Control\Frm_TabControl\Frm_TabControl\obj\Debug\netcoreapp3.1\Frm_TabControl.AssemblyInfo.cs
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Tab Control\Frm_TabControl\Frm_TabControl\obj\Debug\netcoreapp3.1\Frm_TabControl.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Tab Control\Frm_TabControl\Frm_TabControl\obj\Debug\netcoreapp3.1\Frm_TabControl.csproj.CopyComplete
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Tab Control\Frm_TabControl\Frm_TabControl\obj\Debug\netcoreapp3.1\Frm_TabControl.dll
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Tab Control\Frm_TabControl\Frm_TabControl\obj\Debug\netcoreapp3.1\Frm_TabControl.pdb
+C:\Users\Bruno\Documents\Estudos C#\Windows Forms C#\Tab Control\Frm_TabControl\Frm_TabControl\obj\Debug\netcoreapp3.1\Frm_TabControl.genruntimeconfig.cache

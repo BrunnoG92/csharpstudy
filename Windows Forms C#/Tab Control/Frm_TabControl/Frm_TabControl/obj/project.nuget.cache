@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hrLl6EiIU4kmWxx6Y1Gt/se39mxiUFuyECVxxkp2czLgFM61oZgL7HYo/cIEjuO+R9wKzvHSGUNh4P7GJ8dWjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bruno\\Documents\\Estudos C#\\Windows Forms C#\\Tab Control\\Frm_TabControl\\Frm_TabControl\\Frm_TabControl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bruno\\.nuget\\packages\\metroset_ui\\2.0.0\\metroset_ui.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
